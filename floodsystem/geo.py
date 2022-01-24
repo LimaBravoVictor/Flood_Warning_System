@@ -47,10 +47,11 @@ def rivers_with_station(stations):
     """
     For a list of MonitoringStation() objects, returns a set of rivers that those stations lie on
     """
-    rivers ={}
+    rivers = set()
     for s in stations:
         rivers.add(s.river)
     return rivers
 
+#//TODO #2 def stations_by_river(stations):
 
 
