@@ -12,7 +12,7 @@ from haversine import haversine, Unit
 
 from floodsystem.stationdata import build_station_list
 
-from station import MonitoringStation
+from floodsystem.station import MonitoringStation
 
 
 def stations_by_distance(stations, p):
