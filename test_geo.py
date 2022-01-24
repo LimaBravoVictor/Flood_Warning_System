@@ -19,13 +19,15 @@ def test_stations_by_distance():
     s2 = station.MonitoringStation("s2-sid","s2-mid","Station2",cord1, (-1, 1), "RiverB", "TownB")
     s3 = station.MonitoringStation("s3-sid","s3-mid","Station3",cord1, (-1, 1), "RiverC", "TownC")
     stationlist = [s1, s2, s3]
-    #output = geo.stations_by_distance(stationlist, point)
-    output = [(s2,0.8585),(s3,310.3901),(s1,1153.460)]
-    
+    output = geo.stations_by_distance(stationlist, point)
+    #Check Types
+    assert type(output) == list
+    assert type(output[0])== tuple
+    assert isinstance (station.MonitoringStation(), output[0][0])
+    #Check Values
     assert output[0][0].name == "Station2"
     assert output[1][0].name == "Station3"
     assert output[2][0].name == "Station1"
     assert round(output[0][1]-d2, 3)==0
     assert round(output[1][1]-d3, 3)==0
     assert round(output[2][1]-d1, 3)==0
-test_stations_by_distance()
