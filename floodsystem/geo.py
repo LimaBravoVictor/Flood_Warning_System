@@ -27,3 +27,30 @@ def stations_by_distance(stations, p):
 
     # list sorted by distance
     return sorted_by_key(stations_distance, 1)
+
+def stations_within_radius(stations, centre, r):
+    """
+    From a list of MonitoringStation() objects, 
+    returns a new list of station MonitoringStation() objects 
+    which lie less then r from centre
+    """
+    close_stations = []
+    for s in stations:
+        d = haversine(s.coord, centre)
+        if d < r:
+            close_stations.append(s)
+    return close_stations
+
+
+
+def rivers_with_station(stations):
+    """
+    For a list of MonitoringStation() objects, returns a set of rivers that those stations lie on
+    """
+    rivers ={}
+    for s in stations:
+        rivers.add(s.river)
+    return rivers
+
+
+
