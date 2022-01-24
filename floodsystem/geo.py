@@ -28,6 +28,7 @@ def stations_by_distance(stations, p):
     # list sorted by distance
     return sorted_by_key(stations_distance, 1)
 
+
 def stations_within_radius(stations, centre, r):
     """
     From a list of MonitoringStation() objects, 
@@ -52,6 +53,21 @@ def rivers_with_station(stations):
         rivers.add(s.river)
     return rivers
 
-#//TODO #2 def stations_by_river(stations):
+
+def stations_by_river(stations):
+    """
+    From a list of MonitoringStation() objects, 
+    returns a dictionary with keys corresponding to names of rivers
+    with each value being a list of MonitoringStation() stations that are on the river
+    """
+    by_river = dict()
+    #Get a list o keys and create empty dictionary
+    key_list = rivers_with_station(stations)
+    for river in key_list:
+        by_river[river]=[]
+    #Add stations to rivers
+    for station in stations:
+        by_river[station.river].append(station)
+    return by_river
 
 
