@@ -10,7 +10,7 @@ Milestone 1:
         Add Methods:
             Luke (Done)
         Demonstration:
-            Luke (Done, requires improved presentation)
+            Luke (Done)
         Test:
             Songha ()ngoing)
     Task 1D:
