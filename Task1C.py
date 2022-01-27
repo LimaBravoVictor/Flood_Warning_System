@@ -8,7 +8,7 @@ centre = (52.2053, 0.1218)
 radius = 10
 
 def run():
-    
+    print("List of stations within 10 km of the Cambridge city centre:")
     station_list = data.build_station_list()
     #List of stations within radius
     within_radius = geo.stations_within_radius(station_list, centre, radius)
