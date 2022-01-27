@@ -10,9 +10,9 @@ from .utils import sorted_by_key  # noqa
 
 from haversine import haversine, Unit
 
-from floodsystem.stationdata import build_station_list
+from .stationdata import build_station_list
 
-from floodsystem.station import MonitoringStation
+from .station import MonitoringStation
 
 
 def stations_by_distance(stations, p):
