@@ -1,13 +1,25 @@
 Milestone 1:
     Task 1B:
         Add def stations_by_distance(stations, p): to geo
-            Songha (ongoing)
+            Songha (Debug)
         Create Demonstration program Task1B.py
+            Luke (Ongoing)
         Add test to test_geo.py
-            Luke (ongoing)
+            Luke (Done)
     Task 1C:
-        Add def stations_within_radius(stations, centre, r):
+        Add Methods:
+            Luke (Done)
+        Demonstration:
+            Luke (ongoing)
+        Test:
+            Songha ()ngoing)
     Task 1D:
+        Add Methods:
+            Luke (Done)
+        Demonstration:
+            Luke (ongoing)
+        Test:
+            Songha (Ongoing)
     Task 1E:
     Task 1F:
 
