@@ -17,10 +17,11 @@ from .station import MonitoringStation
 
 def stations_by_distance(stations, p):
 
-    stations = build_station_list()
-
-    station_name = [stations.name for station in stations]
-    distance = list(haversine(stations.coord, p))
+    station_name = []
+    distance = []
+    for s in stations:
+        station_name.append(s)
+        distance.append(haversine(s.coord, p))
 
     # a list of (station, distance) tuples
     stations_distance = list(zip(station_name, distance))
@@ -43,7 +44,6 @@ def stations_within_radius(stations, centre, r):
     return close_stations
 
 
-
 def rivers_with_station(stations):
     """
     For a list of MonitoringStation() objects, returns a set of rivers that those stations lie on
@@ -61,13 +61,11 @@ def stations_by_river(stations):
     with each value being a list of MonitoringStation() stations that are on the river
     """
     by_river = dict()
-    #Get a list o keys and create empty dictionary
+    # Get a list o keys and create empty dictionary
     key_list = rivers_with_station(stations)
     for river in key_list:
-        by_river[river]=[]
-    #Add stations to rivers
+        by_river[river] = []
+    # Add stations to rivers
     for station in stations:
         by_river[station.river].append(station)
     return by_river
-
-
