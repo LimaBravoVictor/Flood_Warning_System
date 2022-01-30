@@ -26,6 +26,10 @@ Milestone 1:
         Demonstration:
             Songha (Done)
         Test:
-        
+
     Task 1F:
+        Add Methods:
+            Songha (Done)
+        Demonstration:
+            Songha (Done)
 
