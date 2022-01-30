@@ -1,6 +1,8 @@
 """Unit test for the geo module"""
 
 import string
+
+from sqlalchemy import null
 import floodsystem.geo as geo
 import floodsystem.station as station
 
@@ -84,3 +86,5 @@ def test_typical_range_consistent():
     #Test no data
     no_data = station.MonitoringStation("01","01","Constistant", (1,1),"n/a" ,"bob", "Cannon" )
     assert no_data.typical_range_consistent() == False
+    none_data = station.MonitoringStation("01","01","Constistant", (1,1), None ,"bob", "Cannon" )
+    assert none_data.typical_range_consistent() == False
