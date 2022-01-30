@@ -3,7 +3,7 @@ Milestone 1:
         Add def stations_by_distance(stations, p): to geo
             Songha (Debug)
         Create Demonstration program Task1B.py
-            Luke (Ongoing)
+            Luke (Awaiting above debug)
         Add test to test_geo.py
             Luke (Done)
     Task 1C:
@@ -26,6 +26,7 @@ Milestone 1:
         Demonstration:
             Songha (Done)
         Test:
+            Luke (Ongoing)
         
     Task 1F:
 
