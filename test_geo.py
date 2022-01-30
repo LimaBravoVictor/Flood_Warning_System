@@ -88,3 +88,24 @@ def test_typical_range_consistent():
     assert no_data.typical_range_consistent() == False
     none_data = station.MonitoringStation("01","01","Constistant", (1,1), None ,"bob", "Cannon" )
     assert none_data.typical_range_consistent() == False
+
+def test_inconsistent_typical_range_stations():
+    #Create stations
+    none_data = station.MonitoringStation("01","01","none", (1,1), None ,"bob", "Cannon" )
+    incon = station.MonitoringStation("01","01","incon", (2,1),(2,1), "bob", "Cannon" )
+    stationlist = [none_data, incon]
+    for i in range (-100, 100):
+        sid = "sid{}".format(i)
+        mid = "md{}".format(i)
+        name = "name{}".format(i)
+        coord = (1, 3)
+        trange = (i,i+1)
+        town ="town{}".format(i)
+        stationlist.append(station.MonitoringStation(sid,mid, name, coord, trange, i, town))
+    output = station.inconsistent_typical_range_stations(stationlist)
+    assert type(output) == list
+    for i in output:
+        assert isinstance(i, station.MonitoringStation)
+        pass
+    assert len(output)==2
+test_inconsistent_typical_range_stations()
