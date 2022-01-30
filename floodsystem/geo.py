@@ -71,3 +71,16 @@ def stations_by_river(stations):
     for station in stations:
         by_river[station.river].append(station)
     return by_river
+
+
+def rivers_by_station_number(stations, N):
+    station_num = {}
+    for s in stations:
+        if s.river in station_num:
+            station_num[s.river] += 1
+        else:
+            station_num[s.river] = 1
+
+    river_station_num = sorted(station_num.items(), key=lambda kv: kv[1], reverse=True)
+
+    return river_station_num[0:N]
