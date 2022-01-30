@@ -68,5 +68,3 @@ def test_rivers_by_station_number():
     assert output[9][1] == 90
     for i in range (1,output.len()+1):
         pass
-
-test_rivers_by_station_number()
