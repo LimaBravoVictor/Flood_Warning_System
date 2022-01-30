@@ -26,10 +26,13 @@ Milestone 1:
         Demonstration:
             Songha (Done)
         Test:
+        Luke (Ongoing)
 
     Task 1F:
         Add Methods:
             Songha (Done)
         Demonstration:
             Songha (Done)
+        Test:
+            Luke(Ongoing)
 
