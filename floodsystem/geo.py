@@ -17,19 +17,16 @@ from .station import MonitoringStation
 
 def stations_by_distance(stations, p):
 
-    station_name = []
-    town = []
-    distance = []
+    distance = {}
     for s in stations:
-        station_name.append(s.name)
-        town.append(s.town)
-        distance.append(haversine(s.coord, p))
+        d = haversine(s.coord, p)
+        distance[s] = d
 
     # a list of (station, distance) tuples
-    stations_distance = list(zip(station_name, town, distance))
+    stations_distance = distance.items()
 
     # list sorted by distance
-    return sorted_by_key(stations_distance, 2)
+    return sorted_by_key(stations_distance, 1)
 
 
 def stations_within_radius(stations, centre, r):
