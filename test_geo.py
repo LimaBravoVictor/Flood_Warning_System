@@ -66,5 +66,3 @@ def test_rivers_by_station_number():
     assert output[9][0] == "River90"
     assert output[0][1] == 100
     assert output[9][1] == 90
-    for i in range (1,output.len()+1):
-        pass
