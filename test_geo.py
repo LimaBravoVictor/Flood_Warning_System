@@ -20,7 +20,8 @@ def test_stations_by_distance():
     # Create test stations with known coordinates
     s1 = station.MonitoringStation("s1-sid","s1-mid","Station1",cord1, (-1, 1), "RiverA", "TownA")
     s2 = station.MonitoringStation("s2-sid","s2-mid","Station2",cord2, (-1, 1), "RiverB", "TownB")
-    s3 = station.MonitoringStation("s3-sid","s3-mid","Station3",cord3, (-1, 1), "RiverC", "TownC")
+    s3 = station.MonitoringStation("s3-sid","s3-mid","Station3",cord3, (-1, 1), "RiverC", "TownB")
+
     stationlist = [s1, s2, s3]
     output = geo.stations_by_distance(stationlist, point)
     #Check Types
@@ -37,9 +38,7 @@ def test_stations_by_distance():
 
 def test_rivers_by_station_number():
     #create list of test rivers:
-    test_rivers =[]
-    for i in range (1, 101):
-        test_rivers.append(("River{}".format(i), i))
+    test_rivers =[("River1", 4),("River2", 3),("River3",3),("River4",2),("River5",1)]
     #Create empty stationlist:
     station_list=[]
     #Create stations on those rivers
@@ -54,21 +53,20 @@ def test_rivers_by_station_number():
             station_list.append(station.MonitoringStation(sid,mid, name, coord, trange, i[0], town))
     
     #Test Lengths
-    for i in range(1, 100):
-        output = geo.rivers_by_station_number(station_list, i)        
-        assert len(output) == i
+    output = geo.rivers_by_station_number(station_list, 2)        
+    assert len(output) == 3
     #Test type returns
-    output = geo.rivers_by_station_number(station_list, 10)
+    output = geo.rivers_by_station_number(station_list, 4)
     assert type(output)== list
     assert type(output[0])== tuple
     assert type(output[0][0])== string
     assert type(output[0][1])== int
     #Value checks
-    assert output[0][0] == "River100"
-    assert output[9][0] == "River90"
-    assert output[0][1] == 100
-    assert output[9][1] == 90
-
+    assert output[0][0] == "River1"
+    assert output[3][0] == "River3"
+    assert output[0][1] == 4
+    assert output[3][1] == 2
+test_rivers_by_station_number()
 def test_typical_range_consistent():
     #Create and test consistant stations
     for i in range (-100, 100):
