@@ -77,11 +77,10 @@ def test_typical_range_consistent():
         trange = (i,i+1)
         town ="town{}".format(i)
         s=station.MonitoringStation(sid,mid, name, coord, trange, i, town)
-        assert s.typical_range_consistent
+        assert s.typical_range_consistent()
     #Create and test inconsistant station
     incon = station.MonitoringStation("01","01","Constistant", (2,1),(2,1), "bob", "Cannon" )
     assert incon.typical_range_consistent() == False
     #Test no data
     no_data = station.MonitoringStation("01","01","Constistant", (1,1),"n/a" ,"bob", "Cannon" )
     assert no_data.typical_range_consistent() == False
-test_typical_range_consistent()
