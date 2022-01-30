@@ -23,7 +23,7 @@ def test_stations_by_distance():
     #Check Types
     assert type(output) == list
     assert type(output[0])== tuple
-    assert isinstance (station.MonitoringStation(), output[0][0])
+    #assert isinstance (station.MonitoringStation(), output[0][0])
     #Check Values
     assert output[0][0].name == "Station2"
     assert output[1][0].name == "Station3"
