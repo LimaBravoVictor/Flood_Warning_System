@@ -66,3 +66,22 @@ def test_rivers_by_station_number():
     assert output[9][0] == "River90"
     assert output[0][1] == 100
     assert output[9][1] == 90
+
+def test_typical_range_consistent():
+    #Create and test consistant stations
+    for i in range (-100, 100):
+        sid = "sid{}".format(i)
+        mid = "md{}".format(i)
+        name = "name{}".format(i)
+        coord = (1, 3)
+        trange = (i,i+1)
+        town ="town{}".format(i)
+        s=station.MonitoringStation(sid,mid, name, coord, trange, i, town)
+        assert s.typical_range_consistent
+    #Create and test inconsistant station
+    incon = station.MonitoringStation("01","01","Constistant", (2,1),(2,1), "bob", "Cannon" )
+    assert incon.typical_range_consistent() == False
+    #Test no data
+    no_data = station.MonitoringStation("01","01","Constistant", (1,1),"n/a" ,"bob", "Cannon" )
+    assert no_data.typical_range_consistent() == False
+test_typical_range_consistent()
