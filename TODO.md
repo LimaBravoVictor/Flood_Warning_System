@@ -17,7 +17,7 @@ Milestone 1:
         Add Methods:
             Luke (Done)
         Demonstration:
-            Luke (ongoing)
+            Luke (Done
         Test:
             Songha (Ongoing)
     Task 1E:
@@ -34,5 +34,5 @@ Milestone 1:
         Demonstration:
             Songha (Done)
         Test:
-            Luke(Ongoing)
+            Luke(Done)
 
