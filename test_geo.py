@@ -19,14 +19,14 @@ def test_stations_by_distance():
     d3 = 310.390325
     # Create test stations with known coordinates
     s1 = station.MonitoringStation("s1-sid","s1-mid","Station1",cord1, (-1, 1), "RiverA", "TownA")
-    s2 = station.MonitoringStation("s2-sid","s2-mid","Station2",cord1, (-1, 1), "RiverB", "TownB")
-    s3 = station.MonitoringStation("s3-sid","s3-mid","Station3",cord1, (-1, 1), "RiverC", "TownC")
+    s2 = station.MonitoringStation("s2-sid","s2-mid","Station2",cord2, (-1, 1), "RiverB", "TownB")
+    s3 = station.MonitoringStation("s3-sid","s3-mid","Station3",cord3, (-1, 1), "RiverC", "TownC")
     stationlist = [s1, s2, s3]
     output = geo.stations_by_distance(stationlist, point)
     #Check Types
     assert type(output) == list
     assert type(output[0])== tuple
-    assert isinstance (station.MonitoringStation(), output[0][0])
+    assert isinstance (output[0][0], station.MonitoringStation)
     #Check Values
     assert output[0][0].name == "Station2"
     assert output[1][0].name == "Station3"
@@ -108,4 +108,3 @@ def test_inconsistent_typical_range_stations():
         assert isinstance(i, station.MonitoringStation)
         pass
     assert len(output)==2
-test_inconsistent_typical_range_stations()
