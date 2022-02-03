@@ -12,14 +12,14 @@ Milestone 1:
         Demonstration:
             Luke (Done)
         Test:
-            Songha (Almost done)
+            Songha (Ongoing)
     Task 1D:
         Add Methods:
             Luke (Done)
         Demonstration:
             Luke (Done
         Test:
-            Songha (Ongoing)
+            Songha (ongoing)
     Task 1E:
         Add Methods:
             Songha (Done)
