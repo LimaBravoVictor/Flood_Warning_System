@@ -145,3 +145,23 @@ def test_stations_within_radius():
     assert d1 <= r
     assert d2 <= r
     assert d3 >= r
+
+
+def test_rivers_with_station():
+    output = geo.rivers_with_station()
+
+    # Check Types
+    assert type(output) == set
+    assert isinstance(output[0], station.MonitoringStation)
+
+
+def test_stations_by_river():
+    # create list of test rivers:
+    test_river = "River Cam"
+    output = geo.stations_by_river(test_river)
+    cam_stations = ['Cam', 'Cambridge', 'Cambridge Baits Bite', 'Cambridge Jesus Lock', 'Dernford', 'Weston Bampfylde']
+
+    # Check types
+    assert type(output) == dict
+    assert output[test_river] == cam_stations
+    assert isinstance(output, station.MonitoringStation)
