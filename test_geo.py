@@ -6,6 +6,7 @@ from sqlalchemy import null
 import floodsystem.geo as geo
 import floodsystem.station as station
 from haversine import haversine, Unit
+import floodsystem.stationdata as stationdata
 
 
 def test_stations_by_distance():
@@ -148,20 +149,34 @@ def test_stations_within_radius():
 
 
 def test_rivers_with_station():
-    output = geo.rivers_with_station()
+    # Create test stations with known name and coordinates
+    s1 = station.MonitoringStation("s1-sid", "s1-mid", "station1",
+                                   (51.874767, -1.740083), (-1, 1), "River Dikler", "TownA")
+    s2 = station.MonitoringStation("s2-sid", "s2-mid", "station2",
+                                   (52.845991, -0.100848), (-1, 1), "River Glen", "TownB")
+
+    s3 = station.MonitoringStation("s2-sid", "s2-mid", "station3",
+                                   (50.976043, -2.793549), (-1, 1), "River Parrett", "TownC")
+    stationlist = [s1, s2, s3]
+    output = geo.rivers_with_station(stationlist)
 
     # Check Types
     assert type(output) == set
-    assert isinstance(output[0], station.MonitoringStation)
+
+    # Check output
+    assert output == {'River Parrett', 'River Glen', 'River Dikler'}
 
 
 def test_stations_by_river():
     # create list of test rivers:
-    test_river = "River Cam"
-    output = geo.stations_by_river(test_river)
-    cam_stations = ['Cam', 'Cambridge', 'Cambridge Baits Bite', 'Cambridge Jesus Lock', 'Dernford', 'Weston Bampfylde']
+    test_stations = stationdata.build_station_list()
+    output = geo.stations_by_river(test_stations)
+    for key in output:
+        if key == "River Cam":
+            return output[key]
+    river_cam_stations = ['Cam', 'Cambridge', 'Cambridge Baits Bite',
+                          'Cambridge Jesus Lock', 'Dernford', 'Weston Bampfylde']
 
     # Check types
     assert type(output) == dict
-    assert output[test_river] == cam_stations
-    assert isinstance(output, station.MonitoringStation)
+    assert output[key] == river_cam_stations
