@@ -169,14 +169,25 @@ def test_rivers_with_station():
 
 def test_stations_by_river():
     # create list of test rivers:
-    test_stations = stationdata.build_station_list()
-    output = geo.stations_by_river(test_stations)
-    for key in output:
-        if key == "River Cam":
-            return output[key]
-    river_cam_stations = ['Cam', 'Cambridge', 'Cambridge Baits Bite',
-                          'Cambridge Jesus Lock', 'Dernford', 'Weston Bampfylde']
+    test_rivers = [("River1", 4), ("River2", 3), ("River3", 3), ("River4", 2), ("River5", 1)]
+    # Create empty stationlist:
+    station_list = []
+    # Create stations on those rivers
+    for i in test_rivers:
+        for j in range(i[1]):
+            sid = "sid{},{}".format(i[0], j)
+            mid = "md{},{}".format(i[0], j)
+            name = "name{},{}".format(i[0], j)
+            coord = (j, -j)
+            trange = (-j, j)
+            town = "town{},{}".format(i[0], j)
+            station_list.append(station.MonitoringStation(sid, mid, name, coord, trange, i[0], town))
+
+    output = geo.stations_by_river(station_list)
 
     # Check types
     assert type(output) == dict
-    assert output[key] == river_cam_stations
+    assert len(output["River2"]) == 3
+    for i in output["River1"]:
+        assert isinstance(i, station.MonitoringStation)
+    assert output["River4"][0].name == "nameRiver4,0"
