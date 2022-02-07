@@ -191,3 +191,6 @@ def test_stations_by_river():
     for i in output["River1"]:
         assert isinstance(i, station.MonitoringStation)
     assert output["River4"][0].name == "nameRiver4,0"
+
+
+test_rivers_by_station_number()

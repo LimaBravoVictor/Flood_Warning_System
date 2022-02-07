@@ -71,6 +71,11 @@ def stations_by_river(stations):
 
 
 def rivers_by_station_number(stations, N):
+    """
+    return a list of (river name, number of stations) tuples, 
+    sorted by the number of stations. In the case that there are more rivers 
+    with the same number of stations as the N th entry, include these rivers in the list
+    """
     station_num = {}
     for s in stations:
         if s.river in station_num:
@@ -82,7 +87,7 @@ def rivers_by_station_number(stations, N):
     working_list = river_station_num[N:]
     output_list = river_station_num[0:N]
     for river in working_list:
-        if river[1] == river_station_num[1]:
+        if river[1] == output_list[- 1][1]:
             output_list.append(river)
 
     return output_list

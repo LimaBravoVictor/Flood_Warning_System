@@ -8,6 +8,7 @@ def run():
     print("List of stations (river, number stations) tuples when N = 9:")
     stations = build_station_list()
     river_number_list = rivers_by_station_number(stations, 9)
+
     print(river_number_list)
 
 
