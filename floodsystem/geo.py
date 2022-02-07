@@ -79,5 +79,10 @@ def rivers_by_station_number(stations, N):
             station_num[s.river] = 1
 
     river_station_num = sorted(station_num.items(), key=lambda kv: kv[1], reverse=True)
+    working_list = river_station_num[N:]
+    output_list = river_station_num[0:N]
+    for river in working_list:
+        if river[1] == river_station_num[1]:
+            output_list.append(river)
 
-    return river_station_num[0:N]
+    return output_list
