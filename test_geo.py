@@ -63,11 +63,11 @@ def test_rivers_by_station_number():
     output = geo.rivers_by_station_number(station_list, 4)
     assert type(output) == list
     assert type(output[0]) == tuple
-    assert type(output[0][0]) == string
+    assert type(output[0][0]) == str
     assert type(output[0][1]) == int
     # Value checks
     assert output[0][0] == "River1"
-    assert output[3][0] == "River3"
+    assert output[3][0] == "River4"
     assert output[0][1] == 4
     assert output[3][1] == 2
 
@@ -191,6 +191,3 @@ def test_stations_by_river():
     for i in output["River1"]:
         assert isinstance(i, station.MonitoringStation)
     assert output["River4"][0].name == "nameRiver4,0"
-
-
-test_rivers_by_station_number()
