@@ -1,3 +1,23 @@
+Milestone 2:
+   Task 2B: 
+     Add methods: 
+       Songha(Ongoing)
+    Demonstration program 
+       Songha(Ongoing)
+    Test
+
+   Task 2C:
+
+   Task 2D:
+
+   Task 2E:
+
+   Task 2F:
+
+   Task 2G:
+
+
+
 Milestone 1:
     Task 1B:
         Add def stations_by_distance(stations, p): to geo
