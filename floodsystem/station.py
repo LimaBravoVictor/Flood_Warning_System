@@ -5,7 +5,6 @@
 for manipulating/modifying station data
 
 """
-from .stationdata import update_water_levels
 
 
 class MonitoringStation:
@@ -41,17 +40,20 @@ class MonitoringStation:
         return d
 
     def typical_range_consistent(self):
-        if not self.typical_range:
+        if self.typical_range is None:
             return False
-        if self.typical_range[0] > self.typical_range[1]:
-            return False
-        else:
+        if self.typical_range[0] < self.typical_range[1]:
             return True
+        else:
+            return False
 
     def relative_water_level(self):
-        if self.latest_level:
+
+        if self.latest_level and self.typical_range_consistent():
             relative_level = self.latest_level / (self.typical_range[1] - self.typical_range[0])
             return relative_level
+        else:
+            return None
 
 
 def inconsistent_typical_range_stations(stations):
