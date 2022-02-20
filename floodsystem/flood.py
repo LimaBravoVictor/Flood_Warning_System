@@ -1,4 +1,5 @@
 from floodsystem.station import MonitoringStation
+from floodsystem.stationdata import update_water_levels
 
 
 def stations_level_over_threshold(stations, tol):
@@ -8,15 +9,14 @@ def stations_level_over_threshold(stations, tol):
     returned list is sorted by the relative level in descending order
     """
     station_list = []
-    relative_level_list = []
+    update_water_levels(stations)
+
     for station in stations:
-        if station.typical_range:
+        if station.latest_level:
             relative_level = station.relative_water_level()
-            if relative_level > tol:
-                station_list.append(station)
-                relative_level_list.append(relative_level)
+            if relative_level and relative_level > tol:
+                station_list.append((station, relative_level))
 
-    station_and_relative_level = list(zip(station_list, relative_level_list))
-    station_and_relative_level.sort(key=lambda item: item[1], reverse=True)
+    station_list.sort(key=lambda item: item[1], reverse=True)
 
-    return station_and_relative_level
+    return station_list
