@@ -9,10 +9,11 @@ def run():
     # Update latest level data for all stations
     update_water_levels(stations)
 
-    # stations and relative water level
-    station_level = stations_level_over_threshold(stations, 0.8)
+    # stations and relative level list
+    stations_over_tol = stations_level_over_threshold(stations, 0.8)
 
-    print(station_level)
+    for i in stations_over_tol:
+        print(i[0].name, i[1])
 
 
 if __name__ == "__main__":
