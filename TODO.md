@@ -2,11 +2,18 @@ Milestone 2:
    Task 2B: 
      Add methods: 
        Songha(Done)
-    Demonstration program 
+    Demonstration program:
        Songha(Done)
-    Test
+    Test:
+       
 
    Task 2C: Songha 
+     Add methods:
+       Songha(Done)
+    Demonstration program:
+       Songha(Done)
+    Test:
+       
 
    Task 2E: Luke
 
