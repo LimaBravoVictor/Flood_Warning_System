@@ -1,13 +1,20 @@
 
 """Submodule used for creating plots of monitoring station data:"""
 
-import floodsystem.station as station
-from  datetime import datetime, timedelta
-import matplotlib as plt
+from floodsystem.station import  MonitoringStation
+import matplotlib.pyplot as plt
 
 def plot_water_levels(station, dates, levels):
-    """Station is a monitoring station object
-    Dates (tuple of datetime tupes(Year, mounth, day)) define beteen which dates
-    levels (tuple of two floats) defines the limits of the graph"""
+    """Plots water levlels at a Station, where station is a monitoring station object;
+    dates are alist of dates
+    levels are a corresponding list of levels"""
 
-    mid = station.measure_id
+    plt.plot(dates, levels)
+    # Lables
+    plt.xlabel("Date (YYYY-MM-DD)")
+    plt.ylabel("Water Level (m)")
+    plt.xticks(rotation=45)
+    plt.title(station.name)
+
+    plt.tight_layout()
+    plt.show()
