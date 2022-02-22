@@ -12,8 +12,14 @@ def plot_water_levels(station, dates, levels):
     plt.plot(dates, levels)
     #Plot low and high
     if station.typical_range_consistent:
-        plt.plot(dates, station.typical_range[0])
-        plt.plot(dates, station.typical_range[1])
+        list = []
+        for i in range (0, len(dates)):
+            list.append(station.typical_range[0])
+        plt.plot(dates, list)
+        list = []
+        for i in range (0, len(dates)):
+            list.append(station.typical_range[1])
+        plt.plot(dates, list)
     # Lables
     plt.xlabel("Date (YYYY-MM-DD)")
     plt.ylabel("Water Level (m)")
