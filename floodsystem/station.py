@@ -49,7 +49,7 @@ class MonitoringStation:
 
     def relative_water_level(self):
 
-        if type(self.latest_level)==float and self.typical_range_consistent():
+        if (type(self.latest_level)==float or type(self.latest_level)==int) and self.typical_range_consistent():
             relative_level = (self.latest_level / (self.typical_range[1] - self.typical_range[0]))-1
             return relative_level
         else:
