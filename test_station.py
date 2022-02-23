@@ -42,5 +42,3 @@ def test_relative_water_level():
             assert output is None
         else:
             assert round(output, 2) == i[1]
-
-test_relative_water_level()
