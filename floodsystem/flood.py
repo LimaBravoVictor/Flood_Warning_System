@@ -1,5 +1,6 @@
 from floodsystem.station import MonitoringStation
 from floodsystem.stationdata import update_water_levels
+from floodsystem.analysis import gradient
 
 
 def stations_level_over_threshold(stations, tol):
@@ -39,6 +40,17 @@ def stations_highest_rel_level(stations, N):
 
     station_list.sort(key=lambda item: item.relative_water_level(), reverse=True)
     highest_water_level = station_list[:N]
-   
 
     return highest_water_level
+
+
+def flood_risk_rate(stations):
+    """ 
+    calculating risk coefficient of each station
+    """
+    update_water_levels(stations)
+    # list of tuples (station, flood risk coeff)
+    station_with_risk_coeff = []
+    for station in stations:
+        flood_risk_coeff = station.relative_water_level() * gradient
+        station_with_risk_coeff.append((station, flood_risk_coeff))
