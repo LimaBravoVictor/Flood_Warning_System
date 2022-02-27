@@ -37,7 +37,7 @@ def stations_highest_rel_level(stations, N):
         if relative_level:
             station_list.append((station))
 
-    station_list = station_list.sort(key=lambda item: item.relative_water_level(), reverse=True)
+    station_list.sort(key=lambda item: item.relative_water_level(), reverse=True)
     highest_water_level = station_list[:N]
    
 
