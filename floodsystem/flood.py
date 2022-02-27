@@ -4,6 +4,7 @@ from floodsystem.analysis import gradient
 from floodsystem.datafetcher import fetch_measure_levels
 import datetime
 
+
 def stations_level_over_threshold(stations, tol):
     """
     a list of tuples (station object at which latest relative water level is 
@@ -45,7 +46,7 @@ def stations_highest_rel_level(stations, N):
     return highest_water_level
 
 
-def flood_risk_rate(stations, no_days =1):
+def flood_risk_rate(stations, no_days=1):
     """ 
     Calculating risk coefficient of each station for previous dates, using regression over the past no_days
     to calculate gradient. If no gradient can be calculated, the relative level is returned instead
@@ -55,10 +56,11 @@ def flood_risk_rate(stations, no_days =1):
     station_with_risk_coeff = []
     for station in stations:
         dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
-        try: grad =gradient(dates, levels)
+        try:
+            grad = gradient(dates, levels)
         except ValueError:
             grad = 0
-            
+
         if not station.typical_range_consistent or (station.relative_water_level() is None):
             risk_coeff = None
         else:
