@@ -17,7 +17,10 @@ def run():
     highlevel = stations_highest_rel_level(stations, no_stations)
     for st in highlevel:
         dates, levels = fetch_measure_levels(st.measure_id, datetime.timedelta(no_Days))
-        plot.plot_water_level_with_fit(st, dates, levels, polyfit)
+        if len(dates)>0 and len(levels)>0:
+            plot.plot_water_level_with_fit(st, dates, levels, polyfit)
+        else:
+            print ("There is no historical data at {}".format(st.name))
 
 
 if __name__ == "__main__":
