@@ -12,7 +12,7 @@ from floodsystem.station import MonitoringStation
 def polyfit(dates, levels, p):
     """From a list of dates and levels returns a best fit numpy polynomial of order p, 
     and the shift of the date axis as a datetime object"""
-    if len(dates)==0 or len(dates)!=len(levels):
+    if len(dates)<2 or len(dates)!=len(levels):
         raise ValueError("Input invalid")
     lowest_date = dates[-1]
     #Use datetime function to deduct the lowest date:
