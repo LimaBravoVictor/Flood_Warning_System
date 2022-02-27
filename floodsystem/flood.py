@@ -1,7 +1,8 @@
 from floodsystem.station import MonitoringStation
 from floodsystem.stationdata import update_water_levels
 from floodsystem.analysis import gradient
-
+from floodsystem.datafetcher import fetch_measure_levels
+import datetime
 
 def stations_level_over_threshold(stations, tol):
     """
@@ -44,14 +45,19 @@ def stations_highest_rel_level(stations, N):
     return highest_water_level
 
 
-def flood_risk_rate(stations):
+def flood_risk_rate(stations, no_days =3):
     """ 
-    calculating risk coefficient of each station
+    Calculating risk coefficient of each station for previous dates, using regression over the past no_days
+    to calculate gradient. If no gradient can be calculated, the relative level is returned instead
     """
     update_water_levels(stations)
     # list of tuples (station, risk coeff)
     station_with_risk_coeff = {}
     for station in stations:
-        risk_coeff = station.relative_water_level() * gradient
+        dates , levels = dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
+        try: grad =gradient(dates, levels)
+        except ValueError:
+            grad = 0
+        risk_coeff = station.relative_water_level() - grad
         station_with_risk_coeff.append((station, risk_coeff))
     return station_with_risk_coeff
