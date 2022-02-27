@@ -45,7 +45,7 @@ def stations_highest_rel_level(stations, N):
     return highest_water_level
 
 
-def flood_risk_rate(stations, no_days =3):
+def flood_risk_rate(stations, no_days =1):
     """ 
     Calculating risk coefficient of each station for previous dates, using regression over the past no_days
     to calculate gradient. If no gradient can be calculated, the relative level is returned instead
