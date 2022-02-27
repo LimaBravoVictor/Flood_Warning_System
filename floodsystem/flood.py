@@ -45,14 +45,10 @@ def stations_highest_rel_level(stations, N):
 
 
 def flood_risk_rate(stations):
-    """
-    severe: relatie water level > 1 and gradient
-    high: relative water level > 1 and gradient
-    moderate: relative water level <1 and gradient
-    low: relative water level <1 and gradient
+    """ 
+    calculating risk coefficient of each station
     """
     update_water_levels(stations)
-
     for station in stations:
         flood_risk_coeff = station.relative_water_level() * gradient
         return flood_risk_coeff
