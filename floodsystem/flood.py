@@ -49,9 +49,9 @@ def flood_risk_rate(stations):
     calculating risk coefficient of each station
     """
     update_water_levels(stations)
-    # dict {key= station: value= flood risk coeff)
+    # list of tuples (station, risk coeff)
     station_with_risk_coeff = {}
     for station in stations:
-        flood_risk_coeff = station.relative_water_level() * gradient
-        station_with_risk_coeff[station] = flood_risk_coeff
+        risk_coeff = station.relative_water_level() * gradient
+        station_with_risk_coeff.append((station, risk_coeff))
     return station_with_risk_coeff
