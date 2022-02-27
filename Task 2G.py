@@ -20,7 +20,9 @@ def run():
     towns ={}
     for st in station_risk_coeff:
         if st[0].town in towns:
-            if st[1] > towns[st[0].town]:
+            if st[1]
+
+            elif st[1] > towns[st[0].town]:
                 towns[st[0].town] = st[1]
         else:
             towns[st[0].town] = st[1]
