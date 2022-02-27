@@ -29,10 +29,9 @@ def polyfit(dates, levels, p):
 
 def gradient(dates, levels):
     """Returns the gradient of the line of regression plotted for dates levels (m/day)"""
-    try: line = polyfit(dates,levels, 1)
+    try: line, date = polyfit(dates,levels, 1)
     except ValueError: 
         raise ValueError("Gradient could not be calculated")
     #since gradiant constant, does not matter when we take derivative
-    poly = np.poly1d (line)
-    gradient = poly.deriv(1)
-    return gradient
+    grad = line.deriv(1)
+    return float(grad(1))
