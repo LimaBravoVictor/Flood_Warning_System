@@ -49,6 +49,7 @@ def flood_risk_rate(stations):
     calculating risk coefficient of each station
     """
     update_water_levels(stations)
+    station_with_risk_coeff = []
     for station in stations:
         flood_risk_coeff = station.relative_water_level() * gradient
-        return flood_risk_coeff
+        station_with_risk_coeff.append((station, flood_risk_coeff))
