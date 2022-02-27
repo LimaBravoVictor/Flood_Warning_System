@@ -52,12 +52,16 @@ def flood_risk_rate(stations, no_days =3):
     """
     update_water_levels(stations)
     # list of tuples (station, risk coeff)
-    station_with_risk_coeff = {}
+    station_with_risk_coeff = []
     for station in stations:
         dates , levels = dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
         try: grad =gradient(dates, levels)
         except ValueError:
             grad = 0
-        risk_coeff = station.relative_water_level() - grad
+            
+        if not station.typical_range_consistent or (station.relative_water_level() is None):
+            risk_coeff = None
+        else:
+            risk_coeff = float(station.relative_water_level() - grad)
         station_with_risk_coeff.append((station, risk_coeff))
     return station_with_risk_coeff
