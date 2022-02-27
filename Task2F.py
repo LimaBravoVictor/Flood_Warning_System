@@ -8,7 +8,7 @@ import datetime
 import floodsystem.plot as plot
 
 no_stations =5
-no_Days =2
+no_Days = 2
 polyfit = 4
 def run():
     stations = build_station_list()
