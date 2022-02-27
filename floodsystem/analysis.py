@@ -7,12 +7,13 @@ import matplotlib.dates as dt
 import numpy as np
 import datetime
 
-from scipy.misc import derivative
 from floodsystem.station import MonitoringStation
 
 def polyfit(dates, levels, p):
     """From a list of dates and levels returns a best fit numpy polynomial of order p, 
     and the shift of the date axis as a datetime object"""
+    if len(dates)==0 or len(dates)!=len(levels):
+        raise ValueError("Input invalid")
     lowest_date = dates[-1]
     #Use datetime function to deduct the lowest date:
     delta_dates =[]
@@ -28,7 +29,10 @@ def polyfit(dates, levels, p):
 
 def gradient(dates, levels):
     """Returns the gradient of the line of regression plotted for dates levels (m/day)"""
-    line = np.poly1d(polyfit(dates,levels, 1))
+    try: line = polyfit(dates,levels, 1)
+    except ValueError: 
+        raise ValueError("Gradient could not be calculated")
     #since gradiant constant, does not matter when we take derivative
-    gradient = line.deriv(1)
+    poly = np.poly1d (line)
+    gradient = poly.deriv(1)
     return gradient
