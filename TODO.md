@@ -10,7 +10,7 @@ Milestone 2:
             def relative_water_level(self): done
             def stations_level_over_threshold(stations, tol):Ongoing
 
-   Task 2C: Songha 
+   Task 2C:  
      Add methods:
        Songha(Done)
     Demonstration program:
@@ -19,17 +19,22 @@ Milestone 2:
         Luke (Ongoing)
        
 
-   Task 2E: Luke
+   Task 2E: 
     Add Methods:
-        Done
+        Luke (Done)
     Demonstration:
-        Done
+        Luke (Done)
+    Test: X (not required to do this)
 
-   Task 2F: Luke
+   Task 2F: 
     Add methods: 
-        Ongoing
+        Luke (Done)
+    Demonstration:
+        Luke (Done)
+    Test: X (not required to do this)
 
    Task 2G: Luke/Songha 
+    Ongoing
 
 Additional tests: (Luke)
 def inconsistent_typical_range_stations(stations):
