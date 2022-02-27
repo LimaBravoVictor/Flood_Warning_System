@@ -20,6 +20,6 @@ def polyfit(dates, levels, p):
     float_dates =[]
     for i in delta_dates:
         float_dates.append((dt.date2num(i/datetime.timedelta(microseconds=1))))
-        #dividing by days =1 converts timedelta back into datetime
+        #dividing by microsceconds=1 converts timedelta back into datetime
     polyline = np.poly1d(np.polyfit(np.array(float_dates),np.array(levels), p))
     return polyline, lowest_date
