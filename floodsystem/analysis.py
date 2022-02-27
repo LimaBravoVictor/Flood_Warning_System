@@ -6,6 +6,8 @@ from ast import Import
 import matplotlib.dates as dt
 import numpy as np
 import datetime
+
+from scipy.misc import derivative
 from floodsystem.station import MonitoringStation
 
 def polyfit(dates, levels, p):
@@ -23,3 +25,10 @@ def polyfit(dates, levels, p):
         #dividing by microsceconds=1 converts timedelta back into datetime
     polyline = np.poly1d(np.polyfit(np.array(float_dates),np.array(levels), p))
     return polyline, lowest_date
+
+def gradient(dates, levels):
+    """Returns the gradient of the line of regression plotted for dates levels (m/day)"""
+    line = np.poly1d(polyfit(dates,levels, 1))
+    #since gradiant constant, does not matter when we take derivative
+    gradient = line.deriv(1)
+    return gradient
