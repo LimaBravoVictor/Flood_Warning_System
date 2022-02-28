@@ -10,30 +10,48 @@ from floodsystem.flood import stations_level_over_threshold
 from floodsystem.analysis import gradient
 import datetime
 
+
 def town_extra_water(town_list=[]):
     """Returns a list of town, extrawater tuples for a list of town names
     extrawater being water above typical range"""
-    retlist=[]
+    retlist = []
     stations = build_station_list()
     update_water_levels(stations)
     for town in town_list:
         town_risk = -10000000.0
         for station in stations:
             if station.town == town:
-                l =1.0
+                l = 1.0
                 try:
                     l = level_next_day(station)
                 except ValueError:
                     l = 0.0
                 l = l - (station.typical_range[1])
                 if l > town_risk:
-                    town_risk =l
+                    town_risk = l
         retlist.append((town, town_risk))
     return retlist
+
+
+def select_one_station(stations):
+    # select one station that has highest gradient
+    stations = build_station_list()
+    update_water_levels(stations)
+    st_with_predicted_level = []
+
+    # comparing each station to find the station that gives highest level and remove the rest.
+    for station1 in stations:
+        level_next_day1 = level_next_day(station1)
+        for station2 in stations:
+            level_next_day2 = level_next_day(station2)
+            if level_next_day1 >= level_next_day2:
+                st_with_predicted_level.append((station1.town, level_next_day1))
+
 
 def risk_cat(risk):
     """Returns the catagory of risk based on risk"""
     return
+
 
 def run():
     stations = build_station_list()
@@ -45,11 +63,10 @@ def run():
     # low : else
 
     names = [
-        'Cambridge','Swindon'
+        'Cambridge', 'Swindon'
     ]
     l = town_extra_water(names)
-    print (l)
-    
+    print(l)
 
 
 if __name__ == "__main__":
