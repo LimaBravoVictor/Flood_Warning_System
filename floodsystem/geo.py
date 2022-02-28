@@ -97,4 +97,4 @@ def towns_with_station(stations):
     towns =set()
     for station in stations:
         towns.add(station.town)
-    return(towns)
+    return(sorted(towns))
