@@ -62,4 +62,3 @@ def flood_risk_rate(station, no_days=1):
         return float(station.relative_water_level() + (grad/(station.typical_level[1]-station.typical_level[0])))
     else:
         raise ValueError("Could not be calculated")
-        return
