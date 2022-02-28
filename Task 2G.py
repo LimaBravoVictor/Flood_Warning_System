@@ -35,7 +35,6 @@ def town_extra_water(town_list=[]):
 
 def select_one_station(stations):
     # select one station that has highest gradient
-    stations = build_station_list()
     update_water_levels(stations)
 
     st_with_predicted_level = []
