@@ -10,6 +10,30 @@ from floodsystem.flood import stations_level_over_threshold
 from floodsystem.analysis import gradient
 import datetime
 
+def town_extra_water(town_list=[]):
+    """Returns a list of town, extrawater tuples for a list of town names
+    extrawater being water above typical range"""
+    retlist=[]
+    stations = build_station_list()
+    update_water_levels(stations)
+    for town in town_list:
+        town_risk = 0.0
+        for station in stations:
+            if station.town == town:
+                l =1.0
+                try:
+                    l = level_next_day(station)
+                except ValueError:
+                    l = 0.0
+                l = l - station.typical_range[1]
+                if l > town_risk:
+                    town_risk =l
+        retlist.append((town, town_risk))
+    return retlist
+
+def risk_cat(risk):
+    """Returns the catagory of risk based on risk"""
+    return
 
 def run():
     stations = build_station_list()
@@ -21,28 +45,11 @@ def run():
     # low : else
 
     names = [
-        'Bourton Dickler', 'Surfleet Sluice', 'Gaw Bridge', 'Hemingford',
-        'Swindon'
+        'Cambridge','Swindon'
     ]
-    for station in stations:
-        if station.name in names:
-            print("Station name, current level, predictide relvative level: {}, {}, {}".format(
-                station.name, station.relative_water_level(), level_next_day(station)))
-    severe_station = stations_level_over_threshold(stations, 1)
-    severe_town = []
-
-    for st in severe_station:
-        dates, levels = fetch_measure_levels(st[0].measure_id, datetime.timedelta(1))
-        # water level increases more than 0.3m/day
-        grad = 0
-        try:
-            grad = gradient(dates, levels)
-        except ValueError:
-            continue
-        if grad >= 0.0:
-            severe_town.append(st[0].town)
-
-    print("{}: severe".format(severe_town))
+    l = town_extra_water(names)
+    print (l)
+    
 
 
 if __name__ == "__main__":

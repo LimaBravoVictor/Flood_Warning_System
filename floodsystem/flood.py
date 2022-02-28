@@ -48,8 +48,8 @@ def stations_highest_rel_level(stations, N):
 
 def level_next_day(station, no_days=2):
     """ 
-    Calculates the expected relative value one day in the future, 
-    based on regression from the past the past no_days.
+    Calculates the expected value in (m) one day in the future, 
+    based on regression from the past no_days.
     """
     update_water_levels([station])
     dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
@@ -58,7 +58,7 @@ def level_next_day(station, no_days=2):
     except ValueError:
         grad = 0
 
-    if station.typical_range_consistent and not (station.relative_water_level() is None):
-        return float(station.relative_water_level() + (grad/(station.typical_range[1]-station.typical_range[0])))
+    if station.typical_range_consistent and not (station.latest_level is None):
+        return float(station.latest_level + grad)
     else:
         raise ValueError("Could not be calculated")
