@@ -51,7 +51,7 @@ def level_next_day(station, no_days=2):
     Calculates the expected relative value one day in the future, 
     based on regression from the past the past no_days.
     """
-    update_water_levels(station)
+    update_water_levels([station])
     dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
     try:
         grad = gradient(dates, levels)
@@ -59,6 +59,6 @@ def level_next_day(station, no_days=2):
         grad = 0
 
     if station.typical_range_consistent and not (station.relative_water_level() is None):
-        return float(station.relative_water_level() + (grad/(station.typical_level[1]-station.typical_level[0])))
+        return float(station.relative_water_level() + (grad/(station.typical_range[1]-station.typical_range[0])))
     else:
         raise ValueError("Could not be calculated")
