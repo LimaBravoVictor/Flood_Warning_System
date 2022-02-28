@@ -21,11 +21,7 @@ def town_extra_water(town_list=[]):
         town_risk = -10000000.0
         for station in stations:
             if station.town == town:
-<<<<<<< HEAD
-                l = 1.0
-=======
                 l = -10000
->>>>>>> 251fe13e4b82eeeb6e4b0ff8f16ed174ccee7e8f
                 try:
                     l = level_next_day(station)
                 except ValueError:
@@ -41,6 +37,7 @@ def select_one_station(stations):
     # select one station that has highest gradient
     stations = build_station_list()
     update_water_levels(stations)
+
     st_with_predicted_level = []
 
     # comparing each station to find the station that gives highest level and remove the rest.
@@ -50,6 +47,7 @@ def select_one_station(stations):
             level_next_day2 = level_next_day(station2)
             if level_next_day1 >= level_next_day2:
                 st_with_predicted_level.append((station1.town, level_next_day1))
+        return st_with_predicted_level
 
 
 def risk_cat(risk):
