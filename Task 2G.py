@@ -3,8 +3,8 @@ Explain the criteria that you have used in making your assessment
 and rate the risk at severe/high/moderate/low."""
 
 
-from floodsystem.stationdata import build_station_list
-from floodsystem.flood import flood_risk_rate
+from floodsystem.stationdata import build_station_list, update_water_levels
+from floodsystem.flood import level_next_day
 from floodsystem.datafetcher import fetch_measure_levels
 from floodsystem.flood import stations_level_over_threshold
 from floodsystem.analysis import gradient
@@ -13,24 +13,34 @@ import datetime
 
 def run():
     stations = build_station_list()
+    update_water_levels(stations)
 
     # severe : relative water level > 2 and gradient > 0.3
     # high : relative water level > 1 and gradient > 0.1
     # moderate : relative water level < 1 and gradient > 0
     # low : else
-    severe_station = stations_level_over_threshold(stations, 2)
+
+    names = [
+        'Bourton Dickler', 'Surfleet Sluice', 'Gaw Bridge', 'Hemingford',
+        'Swindon'
+    ]
+    for station in stations:
+        if station.name in names:
+            print("Station name, current level, predictide relvative level: {}, {}, {}".format(
+                station.name, station.relative_water_level(), level_next_day(station)))
+    severe_station = stations_level_over_threshold(stations, 1)
     severe_town = []
 
     for st in severe_station:
         dates, levels = fetch_measure_levels(st[0].measure_id, datetime.timedelta(1))
         # water level increases more than 0.3m/day
+        grad = 0
         try:
-            gradient(dates, levels)
+            grad = gradient(dates, levels)
         except ValueError:
-
-        if gradient(dates, levels) >= 0.3:
-            severe_town.append(st.town)
-        return severe_town
+            continue
+        if grad >= 0.0:
+            severe_town.append(st[0].town)
 
     print("{}: severe".format(severe_town))
 
