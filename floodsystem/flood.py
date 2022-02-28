@@ -46,24 +46,20 @@ def stations_highest_rel_level(stations, N):
     return highest_water_level
 
 
-def flood_risk_rate(stations, no_days=1):
+def flood_risk_rate(station, no_days=1):
     """ 
-    Calculating risk coefficient of each station for previous dates, using regression over the past no_days
+    Calculating risk coefficient of a station for previous dates, using regression over the past no_days
     to calculate gradient. If no gradient can be calculated, the relative level is returned instead
     """
-    update_water_levels(stations)
-    # list of tuples (station, risk coeff)
-    station_with_risk_coeff = []
-    for station in stations:
-        dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
-        try:
-            grad = gradient(dates, levels)
-        except ValueError:
-            grad = 0
+    update_water_levels(station)
+    dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
+    try:
+        grad = gradient(dates, levels)
+    except ValueError:
+        grad = 0
 
-        if not station.typical_range_consistent or (station.relative_water_level() is None):
-            risk_coeff = None
-        else:
-            risk_coeff = float(station.relative_water_level() + grad)
-        station_with_risk_coeff.append((station, risk_coeff))
-    return station_with_risk_coeff
+    if station.typical_range_consistent and not (station.relative_water_level() is None):
+        return float(station.relative_water_level() + (grad/(station.typical_level[1]-station.typical_level[0])))
+    else:
+        raise ValueError("Could not be calculated")
+        return
