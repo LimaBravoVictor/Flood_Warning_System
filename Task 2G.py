@@ -20,11 +20,11 @@ def town_extra_water(town_list=[]):
         town_risk = -10000000.0
         for station in stations:
             if station.town == town:
-                l =1.0
+                l = -10000
                 try:
                     l = level_next_day(station)
                 except ValueError:
-                    l = 0.0
+                    l = -10000
                 l = l - (station.typical_range[1])
                 if l > town_risk:
                     town_risk =l
@@ -33,7 +33,14 @@ def town_extra_water(town_list=[]):
 
 def risk_cat(risk):
     """Returns the catagory of risk based on risk"""
-    return
+    if risk < -0.5:
+        return "Low"
+    elif risk < 0.2:
+        return "Moderate"
+    elif risk < 100:
+        return "Severe"
+    else:
+        return "Could not be calculated"
 
 def run():
     stations = build_station_list()
