@@ -46,10 +46,10 @@ def stations_highest_rel_level(stations, N):
     return highest_water_level
 
 
-def flood_risk_rate(station, no_days=1):
+def level_next_day(station, no_days=2):
     """ 
-    Calculating risk coefficient of a station for previous dates, using regression over the past no_days
-    to calculate gradient. If no gradient can be calculated, the relative level is returned instead
+    Calculates the expected relative value one day in the future, 
+    based on regression from the past the past no_days.
     """
     update_water_levels(station)
     dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
