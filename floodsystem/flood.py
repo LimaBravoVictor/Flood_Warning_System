@@ -58,7 +58,7 @@ def level_next_day(station, no_days=2):
     except ValueError:
         grad = 0
 
-    if station.typical_range_consistent and not (station.latest_level is None):
+    if station.typical_range_consistent and (not (station.latest_level is None)):
         return float(station.latest_level + grad)
     else:
         raise ValueError("Could not be calculated")

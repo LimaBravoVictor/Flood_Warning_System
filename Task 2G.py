@@ -17,7 +17,7 @@ def town_extra_water(town_list=[]):
     stations = build_station_list()
     update_water_levels(stations)
     for town in town_list:
-        town_risk = 0.0
+        town_risk = -10000000.0
         for station in stations:
             if station.town == town:
                 l =1.0
@@ -25,7 +25,7 @@ def town_extra_water(town_list=[]):
                     l = level_next_day(station)
                 except ValueError:
                     l = 0.0
-                l = l - station.typical_range[1]
+                l = l - (station.typical_range[1])
                 if l > town_risk:
                     town_risk =l
         retlist.append((town, town_risk))
