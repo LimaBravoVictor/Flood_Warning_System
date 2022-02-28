@@ -74,7 +74,10 @@ def run():
         'Cambridge', 'Swindon'
     ]
     l = town_extra_water(names)
-    print(l)
+
+    for level in l:
+        message = risk_cat(level[1])
+        print("{} is {}".format(l[0], message))
 
 
 if __name__ == "__main__":
