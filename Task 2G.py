@@ -77,7 +77,7 @@ def run():
 
     for level in l:
         message = risk_cat(level[1])
-        print("{} is {}".format(l[0], message))
+        print("{} is {}".format(level[0], message))
 
 
 if __name__ == "__main__":
