@@ -15,20 +15,20 @@ def test_stations_level_over_threshold():
     stc.latest_level = 2
     list = (sta, stb, stc)
     st_list = flood.stations_level_over_threshold(list, 1)
-    assert (stc, 1) in st_list
+    assert st_list[0][1] == 1
+
+
+test_stations_level_over_threshold()
 
 
 def test_stations_highest_rel_level():
     # create list of test stations
     sta = MonitoringStation("stid", "mid", "name", (1, 1), (0, 1), "river", "town")
     sta.latest_level = 5
-
     stb = sta
     stb.latest_level = 10
-
     stc = sta
     stc.latest_level = 20
-
     std = sta
     std.latest_level = None
 
