@@ -18,27 +18,20 @@ def test_stations_level_over_threshold():
     assert st_list[0][1] == 1
 
 
-test_stations_level_over_threshold()
-
-
 def test_stations_highest_rel_level():
     # create list of test stations
     sta = MonitoringStation("stid", "mid", "name", (1, 1), (0, 1), "river", "town")
     sta.latest_level = 5
-    stb = sta
+    stb = MonitoringStation("stid", "mid", "name", (1, 1), (0, 1), "river", "town")
     stb.latest_level = 10
-    stc = sta
+    stc = MonitoringStation("stid", "mid", "name", (1, 1), (0, 1), "river", "town")
     stc.latest_level = 20
-    std = sta
+    std = MonitoringStation("stid", "mid", "name", (1, 1), (0, 1), "river", "town")
     std.latest_level = None
 
     test_station_list = [sta, stb, stc, std]
 
-    result = stations_highest_rel_level(test_station_list, 3)
+    result = stations_highest_rel_level(test_station_list, 2)
 
     assert result[0] == stc
     assert result[1] == stb
-    assert result[2] == sta
-
-
-test_stations_highest_rel_level()
