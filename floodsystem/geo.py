@@ -94,7 +94,8 @@ def rivers_by_station_number(stations, N):
 
 def towns_with_station(stations):
     """Returns a set of towns witch have stations"""
-    towns =set()
+    towns = set()
     for station in stations:
-        towns.add(station.town)
+        if station.town is not None:
+            towns.add(station.town)
     return(sorted(towns))

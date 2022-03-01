@@ -8,7 +8,7 @@ from floodsystem.flood import level_next_day
 from floodsystem.datafetcher import fetch_measure_levels
 from floodsystem.flood import stations_level_over_threshold
 from floodsystem.analysis import gradient
-import datetime
+from floodsystem.geo import towns_with_station
 
 
 def town_extra_water(town_list=[]):
@@ -21,14 +21,15 @@ def town_extra_water(town_list=[]):
         town_risk = -10000000.0
         for station in stations:
             if station.town == town:
-                l = -10000
-                try:
-                    l = level_next_day(station)
-                except ValueError:
+                if (station.typical_range is not None) and station.typical_range_consistent():
                     l = -10000
-                l = l - (station.typical_range[1])
-                if l > town_risk:
-                    town_risk = l
+                    try:
+                        l = level_next_day(station)
+                    except ValueError:
+                        l = -10000
+                    l = l - (station.typical_range[1])
+                    if l > town_risk:
+                        town_risk = l
         retlist.append((town, town_risk))
     return retlist
 
@@ -51,11 +52,11 @@ def select_one_station(stations):
 
 def risk_cat(risk):
     """Returns the catagory of risk based on risk"""
-    if risk < -0.5:
+    if risk < 0.0:
         return "Low"
-    elif risk < 0.2:
+    elif risk < 2:
         return "Moderate"
-    elif risk < 100:
+    elif risk < 100000000:
         return "Severe"
     else:
         return "Could not be calculated"
@@ -64,7 +65,10 @@ def risk_cat(risk):
 def run():
     stations = build_station_list()
     update_water_levels(stations)
-
+    write_to_file =False
+    if write_to_file:
+        f = open("one_I_prepared_earlier.txt", "a")
+        f.write("Station, risk , expected, level")
     # severe : relative water level > 2 and gradient > 0.3
     # high : relative water level > 1 and gradient > 0.1
     # moderate : relative water level < 1 and gradient > 0
@@ -73,11 +77,17 @@ def run():
     names = [
         'Cambridge', 'Swindon'
     ]
+    #names = towns_with_station(stations)
     l = town_extra_water(names)
+    a = sorted(l, key=lambda kv: kv[1], reverse=True)
 
-    for level in l:
+    for level in a:
         message = risk_cat(level[1])
-        print("{} is {}".format(level[0], message))
+        if write_to_file:
+            f.write("\n{} is {} at {}".format(level[0], message, round(level[1], 5)))
+        print("{} is {} at {}".format(level[0], message, round(level[1], 5)))
+    if write_to_file:
+        f.close
 
 
 if __name__ == "__main__":

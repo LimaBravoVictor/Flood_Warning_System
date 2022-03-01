@@ -51,7 +51,7 @@ def level_next_day(station, no_days=2):
     Calculates the expected value in (m) one day in the future, 
     based on regression from the past no_days.
     """
-    update_water_levels([station])
+    #update_water_levels([station])
     dates, levels = fetch_measure_levels(station.measure_id, datetime.timedelta(no_days))
     try:
         grad = gradient(dates, levels)
