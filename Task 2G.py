@@ -23,12 +23,15 @@ def town_extra_water(town_list=[]):
             if station.town == town:
                 if (station.typical_range is not None) and station.typical_range_consistent():
                     l = -10000
+                    # predicted absolute level
                     try:
                         l = level_next_day(station)
                     except ValueError:
                         l = -10000
+                    # difference between predicted absolute level and current typical high level
                     l = l - (station.typical_range[1])
                     if l > town_risk:
+                        # town risk = absolute level (l)
                         town_risk = l
         retlist.append((town, town_risk))
     return retlist
@@ -54,8 +57,10 @@ def risk_cat(risk):
     """Returns the catagory of risk based on risk"""
     if risk < 0.0:
         return "Low"
-    elif risk < 2:
+    elif risk < 0.5:
         return "Moderate"
+    elif risk < 2:
+        return "High"
     elif risk < 100000000:
         return "Severe"
     else:
@@ -65,19 +70,19 @@ def risk_cat(risk):
 def run():
     stations = build_station_list()
     update_water_levels(stations)
-    write_to_file =False
+    write_to_file = True
     if write_to_file:
         f = open("one_I_prepared_earlier.txt", "a")
         f.write("Station, risk , expected, level")
-    # severe : relative water level > 2 and gradient > 0.3
-    # high : relative water level > 1 and gradient > 0.1
-    # moderate : relative water level < 1 and gradient > 0
-    # low : else
+    # severe : town risk < 100000000
+    # high : town risk <2
+    # moderate : town risk < 0.5
+    # low : town risk < 0
 
     names = [
         'Cambridge', 'Swindon'
     ]
-    #names = towns_with_station(stations)
+    names = towns_with_station(stations)
     l = town_extra_water(names)
     a = sorted(l, key=lambda kv: kv[1], reverse=True)
 
