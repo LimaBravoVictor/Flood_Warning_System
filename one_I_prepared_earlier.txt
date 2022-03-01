@@ -1,1705 +1,1705 @@
 Station, risk , expected, level
 Letcombe Bassett is Severe at 93.188
-Maisemore is Moderate at 0.71235
-Rawcliffe is Moderate at 0.70825
-Higher Wincham is Moderate at 0.5703
-Cheswick Green is Moderate at 0.46327
-Oulton St Aidans is Moderate at 0.39786
-Gwithian is Moderate at 0.30007
-Leighton Buzzard is Moderate at 0.27025
-Glenfield is Moderate at 0.25083
-Little Alne is Moderate at 0.23096
-Cheltenham is Moderate at 0.20014
-Styal is Moderate at 0.19459
-Swindon is Moderate at 0.18587
-Crudgington is Moderate at 0.18326
-Broom is Moderate at 0.17536
-Major's Green is Moderate at 0.17013
-Fishlake Woodhouse Washland is Moderate at 0.16635
-Dalton is Moderate at 0.16185
-Perlethorpe is Moderate at 0.16006
-Great Bridgeford is Moderate at 0.15402
-Howletts Lane is Moderate at 0.15112
-Sudbury is Moderate at 0.14387
-Astral Close is Moderate at 0.14135
-Stainland Board Mills is Moderate at 0.12116
-Meadowgate Regulator is Moderate at 0.09764
-Studley is Moderate at 0.08295
-Whaddon is Moderate at 0.08283
-North Hull Birdsall Avenue is Moderate at 0.08162
+Rawcliffe is High at 0.71381
+Maisemore is High at 0.70778
+Higher Wincham is High at 0.58327
+Cheswick Green is Moderate at 0.46032
+Oulton St Aidans is Moderate at 0.39694
+Gwithian is Moderate at 0.30245
+Leighton Buzzard is Moderate at 0.2737
+Glenfield is Moderate at 0.25087
+Little Alne is Moderate at 0.21341
+Styal is Moderate at 0.20213
+Cheltenham is Moderate at 0.19657
+Crudgington is Moderate at 0.17978
+Broom is Moderate at 0.17037
+Swindon is Moderate at 0.17016
+Great Bridgeford is Moderate at 0.16695
+Perlethorpe is Moderate at 0.1646
+Fishlake Woodhouse Washland is Moderate at 0.16315
+Dalton is Moderate at 0.163
+Major's Green is Moderate at 0.16002
+Howletts Lane is Moderate at 0.15524
+Astral Close is Moderate at 0.15436
+Sudbury is Moderate at 0.14858
+Stainland Board Mills is Moderate at 0.11782
+Stocksbridge Steelworks is Moderate at 0.11403
+North Hull Birdsall Avenue is Moderate at 0.08465
+Sowerby Bridge is Moderate at 0.0816
+Whaddon is Moderate at 0.0805
 Cam is Moderate at 0.08
-Sowerby Bridge is Moderate at 0.07799
-Great Houghton is Moderate at 0.07654
-Bissoe is Moderate at 0.07332
-The Mythe is Moderate at 0.07204
-Mountnessing is Moderate at 0.07078
-Walcot is Moderate at 0.06762
-Sedbergh is Moderate at 0.05664
-Stoke Prior is Moderate at 0.05595
-Witham Friary is Moderate at 0.0557
-Denstone is Moderate at 0.05287
-Henley-In-Arden is Moderate at 0.05005
-Mytholmroyd is Moderate at 0.04865
-Shifnal is Moderate at 0.03069
-Birkwood is Moderate at 0.02992
-Horsforth Cornmill View is Moderate at 0.0282
-Leek is Moderate at 0.02593
-Sandhurst is Moderate at 0.02527
-Halesowen is Moderate at 0.02461
-Ilam is Moderate at 0.02424
-Arundel is Moderate at 0.02096
-Tewkesbury is Moderate at 0.02093
-Skipton Eller Beck Reservoir Upstream level is Moderate at 0.01872
-Kennington is Moderate at 0.01844
-Edgbaston is Moderate at 0.0171
-Little Ribston is Moderate at 0.01477
-Bucknall is Moderate at 0.01358
-Ashbourne is Moderate at 0.01248
-Reading is Moderate at 0.01155
-Thetford is Moderate at 0.0088
-Wildmoor - Battlefield Brook is Moderate at 0.00538
-Darlington Faverdale is Moderate at 0.00508
-Fordham is Moderate at 0.0037
-Holme House Farm is Moderate at 0.00223
-Tytherton Lucas is Low at -1e-05
-Romford is Low at -0.00124
-Eckington Rotherham Road is Low at -0.00225
-Wistaston Green is Low at -0.00367
-Mockbeggar is Low at -0.00594
-Heacham is Low at -0.00752
-Broughton is Low at -0.00921
-Laleham is Low at -0.00955
-Cambridge is Low at -0.0101
-Sunbury is Low at -0.01347
-Thornton Lock Bielby Beck is Low at -0.01365
-Wholsea Grange is Low at -0.0159
-Poyle is Low at -0.01605
-Royal Wootton Bassett is Low at -0.01736
-Brompton is Low at -0.01809
-Silsden is Low at -0.01812
-Deeping Gate is Low at -0.01867
-Rushton Spencer is Low at -0.02231
-Ware is Low at -0.02234
-Little Bollington is Low at -0.02292
-West Brook is Low at -0.02392
-Tibberton is Low at -0.02486
-Frampton Cotterell is Low at -0.02513
-York James Street Trashscreen is Low at -0.02702
-The Leigh is Low at -0.02992
-Barrow Upon Soar is Low at -0.03029
-Barton Mills is Low at -0.0316
-Great Haywood is Low at -0.03205
-Bishopsworth is Low at -0.03285
-Milton is Low at -0.03342
-Bedford is Low at -0.03375
-Waterhouses is Low at -0.0341
-Upper Tean is Low at -0.03416
-Bitton is Low at -0.03637
-Gloucester is Low at -0.0365
-Medbourne is Low at -0.03744
-Smithy Houses is Low at -0.03896
-Market Warsop is Low at -0.03902
-Teddington is Low at -0.04273
-Cundall is Low at -0.0461
-Hexham Wydon Water is Low at -0.04635
-Spalding is Low at -0.04653
-Eaton Socon is Low at -0.04738
-Sherborne is Low at -0.04764
-Castle Rising is Low at -0.04848
-Hexham is Low at -0.04964
-Woolsthorpe by Belvoir is Low at -0.0509
-Taplow is Low at -0.05212
-Girton is Low at -0.05362
-Leeds Crown Point Weir is Low at -0.05519
-Atherstone On Stour is Low at -0.0585
-Colden Common is Low at -0.05895
-Sheffield Carr Brook Screen is Low at -0.05982
-Brant Broughton is Low at -0.05984
-Burton Bradstock is Low at -0.06002
-Rodbourne is Low at -0.06146
-Lincoln is Low at -0.06223
-Wytham is Low at -0.06438
-Hurley is Low at -0.0654
-Fadmoor is Low at -0.06783
-East Budleigh is Low at -0.06861
-Wellesbourne is Low at -0.0688
-Bourton-On-The-Water is Low at -0.0712
-Marham is Low at -0.07345
-Lea is Low at -0.0739
-Stony Stratford is Low at -0.07639
-Botley is Low at -0.07744
-Heighington is Low at -0.08005
-Kelbrook is Low at -0.08052
-Isleham is Low at -0.08053
-Sandford Bridge is Low at -0.08059
-Doveridge is Low at -0.08076
-Stroud is Low at -0.08078
+Walcot is Moderate at 0.07806
+Bissoe is Moderate at 0.07689
+Meadowgate Regulator is Moderate at 0.07198
+Studley is Moderate at 0.07171
+Mountnessing is Moderate at 0.07151
+Sedbergh is Moderate at 0.07069
+Great Houghton is Moderate at 0.06819
+The Mythe is Moderate at 0.06566
+Sunbury is Moderate at 0.06465
+Stoke Prior is Moderate at 0.06082
+Witham Friary is Moderate at 0.05391
+Mytholmroyd is Moderate at 0.05024
+Henley-In-Arden is Moderate at 0.04567
+Denstone is Moderate at 0.04188
+Birkwood is Moderate at 0.04061
+Tewkesbury is Moderate at 0.031
+Horsforth Cornmill View is Moderate at 0.03056
+Shifnal is Moderate at 0.02822
+Halesowen is Moderate at 0.02714
+Kennington is Moderate at 0.02608
+Leek is Moderate at 0.02325
+Ilam is Moderate at 0.0219
+Edgbaston is Moderate at 0.02051
+Little Ribston is Moderate at 0.01692
+Bucknall is Moderate at 0.0162
+Ashbourne is Moderate at 0.01455
+Poyle is Moderate at 0.01129
+Holme House Farm is Moderate at 0.00956
+Sandhurst is Moderate at 0.00862
+Skipton Eller Beck Reservoir Upstream level is Moderate at 0.00813
+Wildmoor - Battlefield Brook is Moderate at 0.00732
+Reading is Moderate at 0.00466
+Romford is Moderate at 0.00416
+York James Street Trashscreen is Moderate at 0.00389
+Fordham is Moderate at 0.00346
+Darlington Faverdale is Moderate at 0.00229
+Tytherton Lucas is Moderate at 0.00158
+Wistaston Green is Moderate at 0.00067
+Eckington Rotherham Road is Low at -0.00163
+Mockbeggar is Low at -0.00443
+Heacham is Low at -0.00746
+Broughton is Low at -0.00758
+Laleham is Low at -0.00985
+Cambridge is Low at -0.01057
+Thornton Lock Bielby Beck is Low at -0.01128
+Royal Wootton Bassett is Low at -0.01386
+Wholsea Grange is Low at -0.014
+Little Bollington is Low at -0.01736
+Deeping Gate is Low at -0.01827
+Brompton is Low at -0.01919
+Rushton Spencer is Low at -0.02035
+Ware is Low at -0.02107
+Silsden is Low at -0.02176
+Frampton Cotterell is Low at -0.02298
+West Brook is Low at -0.02313
+Tibberton is Low at -0.02425
+Barton Mills is Low at -0.03287
+Milton is Low at -0.03347
+Bedford is Low at -0.03538
+Medbourne is Low at -0.03582
+Upper Tean is Low at -0.0368
+Gloucester is Low at -0.03682
+Bitton is Low at -0.03704
+The Leigh is Low at -0.03772
+Teddington is Low at -0.03797
+Waterhouses is Low at -0.03861
+Taplow is Low at -0.03953
+Bishopsworth is Low at -0.0402
+Smithy Houses is Low at -0.04241
+Market Warsop is Low at -0.04343
+Barrow Upon Soar is Low at -0.0442
+Thetford is Low at -0.04456
+Cundall is Low at -0.0457
+Hexham Wydon Water is Low at -0.04639
+Spalding is Low at -0.04675
+Sherborne is Low at -0.04729
+Great Haywood is Low at -0.04731
+Eaton Socon is Low at -0.04735
+Castle Rising is Low at -0.04841
+Woolsthorpe by Belvoir is Low at -0.04873
+Lincoln is Low at -0.04897
+Hexham is Low at -0.04971
+Girton is Low at -0.05312
+Leeds Crown Point Weir is Low at -0.05321
+Atherstone On Stour is Low at -0.05413
+Burton Bradstock is Low at -0.05751
+Colden Common is Low at -0.05884
+Brant Broughton is Low at -0.05925
+Wytham is Low at -0.06006
+Rodbourne is Low at -0.06147
+Hurley is Low at -0.06394
+Lea is Low at -0.06555
+Sheffield Carr Brook Screen is Low at -0.06577
+Fadmoor is Low at -0.06611
+East Budleigh is Low at -0.06768
+Wellesbourne is Low at -0.06797
+Stony Stratford is Low at -0.06916
+Bourton-On-The-Water is Low at -0.07137
+Marham is Low at -0.0733
+Lea Marston is Low at -0.07772
+Botley is Low at -0.07981
+Heighington is Low at -0.07986
+Sandford Bridge is Low at -0.08022
+Isleham is Low at -0.08046
+Stroud is Low at -0.08147
+Kelbrook is Low at -0.08192
 Arlesey is Low at -0.082
-Stratford St Andrew is Low at -0.08241
-Middlesbrough Albert Park Footbridge is Low at -0.08327
-Rattlesden is Low at -0.08412
-Abbey Heath is Low at -0.08476
-Lea Marston is Low at -0.08572
-Rocester is Low at -0.0879
-Ferrybridge is Low at -0.09066
-Leeds Knostrop Weir is Low at -0.09222
-Brampton is Low at -0.09243
-East Harling is Low at -0.09425
-Milton-Under-Wychwood is Low at -0.09452
-Knettishall is Low at -0.09507
-Sydling St Nicholas is Low at -0.09561
-Standlake is Low at -0.09586
-Great Chesterford is Low at -0.09598
-Castle Carrock is Low at -0.09634
-South Creake is Low at -0.09797
-Babraham is Low at -0.09866
-Lady Bridge is Low at -0.09973
+Middlesbrough Albert Park Footbridge is Low at -0.08213
+Stratford St Andrew is Low at -0.08246
+Rattlesden is Low at -0.08371
+Abbey Heath is Low at -0.08419
+Doveridge is Low at -0.08523
+Rocester is Low at -0.08545
+Leeds Knostrop Weir is Low at -0.09049
+Brampton is Low at -0.0918
+Ferrybridge is Low at -0.09214
+Castle Carrock is Low at -0.09243
+East Harling is Low at -0.09411
+Milton-Under-Wychwood is Low at -0.09415
+Knettishall is Low at -0.09456
+Sydling St Nicholas is Low at -0.09538
+Standlake is Low at -0.09549
+Great Chesterford is Low at -0.09664
+Comberton is Low at -0.09771
+South Creake is Low at -0.09773
+Warwick is Low at -0.09846
+Babraham is Low at -0.09859
 Upwey is Low at -0.1
-Warwick is Low at -0.10006
-Hungerford is Low at -0.10055
-Scalby Mills is Low at -0.10254
-Blewbury is Low at -0.10291
-Little Wittenham is Low at -0.10377
-Streatley is Low at -0.1045
-Stratford-Upon-Avon is Low at -0.1045
-Cheddleton is Low at -0.10495
-Rowlands Gill is Low at -0.10499
-Marston Green is Low at -0.1064
-Great Glen is Low at -0.10667
-Norton is Low at -0.10934
-Icklingham is Low at -0.10939
-Toddington is Low at -0.11007
-Lechlade On Thames is Low at -0.11137
-Wendron is Low at -0.11243
-Moreton is Low at -0.11357
-Hythe End is Low at -0.11394
-Leigh is Low at -0.11422
-East Molesey is Low at -0.11464
-Calder Bridge is Low at -0.11527
-Langdon Common is Low at -0.11547
-Bagnor is Low at -0.11712
-Ashford in the Water is Low at -0.11918
-South Cave Beverley Road is Low at -0.12155
-Hedge End is Low at -0.12253
-Walton-On-Thames is Low at -0.12303
-Bridgham is Low at -0.1247
-Olney is Low at -0.12511
-Weymouth is Low at -0.12516
-Tanfield is Low at -0.12518
-Nunnington is Low at -0.12649
-Biggleswade is Low at -0.12676
-Fossebridge is Low at -0.1269
-Wolvercote is Low at -0.12694
-Standford is Low at -0.12879
-Wookey is Low at -0.12899
-Hemingford Grey is Low at -0.12973
-Hawnby is Low at -0.13159
-Thornborough is Low at -0.13398
-Horton is Low at -0.1359
-Calne is Low at -0.1371
-Masham is Low at -0.13719
-Godmanchester is Low at -0.13726
-Cowbeech is Low at -0.13854
-Comberton is Low at -0.13894
-Washford is Low at -0.13933
-Blunham is Low at -0.13938
-Weybridge is Low at -0.13945
-Stinsford is Low at -0.14258
-Great Somerford is Low at -0.14289
-Cerney Wick is Low at -0.14357
-North Cave is Low at -0.14373
-Penzance is Low at -0.14398
-New Alresford is Low at -0.14959
-Benson is Low at -0.15079
-Riseley is Low at -0.15176
-Deeping St James is Low at -0.15196
-Bourn is Low at -0.15208
-Lode is Low at -0.15211
-Coleshill is Low at -0.15229
-Nettlebridge is Low at -0.15349
-Hooke is Low at -0.15363
-Sandhill Bridge is Low at -0.15381
-Brokenborough is Low at -0.1541
-Little Rissington is Low at -0.15436
-Pangbourne is Low at -0.15438
-Abingdon is Low at -0.15489
-High Wycombe is Low at -0.1556
-Ashleworth is Low at -0.15595
-Willen is Low at -0.15623
-Merton is Low at -0.15739
-Cappenham is Low at -0.15742
-Fornham St Martin is Low at -0.15752
-Iron Acton is Low at -0.15817
-Huntingford is Low at -0.16019
-Wyre Piddle is Low at -0.16071
-Pershore is Low at -0.16188
-Bourne End is Low at -0.16367
-Polesworth is Low at -0.16429
-Derwent Water at Lodore is Low at -0.16496
-Broadland Row is Low at -0.16528
-Welches Dam is Low at -0.16857
-Wimpole is Low at -0.16918
-Westy is Low at -0.1698
-Perry Barr is Low at -0.17047
-Easton Grey is Low at -0.17442
-Mapledurham is Low at -0.1747
-Houghton is Low at -0.17484
-Rickmansworth is Low at -0.17489
-Burpham is Low at -0.17703
-Winchester is Low at -0.17735
-Bray is Low at -0.17768
-Bibury is Low at -0.17792
-Sonning is Low at -0.17906
-Offord Cluny is Low at -0.18097
-Walsden is Low at -0.1816
-Great Shelford is Low at -0.1818
-North Warnborough is Low at -0.18314
-Oakenshaw Wyke Bottoms is Low at -0.18383
-Tideford is Low at -0.18552
-Leigh Woods is Low at -0.18557
-Swalecliffe is Low at -0.18592
-Farmoor is Low at -0.18745
-Cogenhoe is Low at -0.18808
-East Ayton is Low at -0.18995
-Stoke Ferry is Low at -0.19124
-Lakenheath is Low at -0.19141
-Leeds is Low at -0.19292
-Aylesbury is Low at -0.19483
-Wherwell is Low at -0.19499
-Goulceby is Low at -0.19593
-Haslingfield is Low at -0.19607
-Malmesbury is Low at -0.19654
-Butteryhaugh is Low at -0.19894
-Buckingham is Low at -0.19943
-Walsall is Low at -0.20089
-Sheffield is Low at -0.20115
-Yealmpton is Low at -0.20206
-St Neots is Low at -0.20228
-Bradford Greenside is Low at -0.20285
+Hungerford is Low at -0.10053
+Streatley is Low at -0.10105
+Hythe End is Low at -0.10169
+Scalby Mills is Low at -0.10218
+Blewbury is Low at -0.10281
+Marston Green is Low at -0.10466
+Wendron is Low at -0.1047
+Lady Bridge is Low at -0.10529
+Rowlands Gill is Low at -0.10537
+Stratford-Upon-Avon is Low at -0.10657
+Cheddleton is Low at -0.10746
+Norton is Low at -0.10762
+Great Glen is Low at -0.10794
+Lechlade On Thames is Low at -0.10882
+Moreton is Low at -0.1095
+Icklingham is Low at -0.1095
+Walton-On-Thames is Low at -0.10961
+East Molesey is Low at -0.11129
+Langdon Common is Low at -0.11159
+Toddington is Low at -0.11163
+Calder Bridge is Low at -0.11447
+Little Wittenham is Low at -0.11614
+Bagnor is Low at -0.11707
+Ashford in the Water is Low at -0.12021
+Standford is Low at -0.12101
+South Cave Beverley Road is Low at -0.12114
+Coleshill is Low at -0.1212
+Bridgham is Low at -0.12443
+Olney is Low at -0.12482
+Weymouth is Low at -0.12511
+Tanfield is Low at -0.12539
+Wolvercote is Low at -0.12545
+Nunnington is Low at -0.12611
+Biggleswade is Low at -0.127
+Fossebridge is Low at -0.12721
+Hemingford Grey is Low at -0.12867
+Hedge End is Low at -0.12892
+Weybridge is Low at -0.12994
+Leigh is Low at -0.13101
+Wookey is Low at -0.13129
+Horton is Low at -0.13195
+Thornborough is Low at -0.13509
+Cowbeech is Low at -0.13579
+Masham is Low at -0.13708
+Godmanchester is Low at -0.13853
+Blunham is Low at -0.13889
+Washford is Low at -0.1396
+Calne is Low at -0.13972
+Great Somerford is Low at -0.14078
+Stinsford is Low at -0.14148
+Cerney Wick is Low at -0.1425
+North Cave is Low at -0.14269
+Penzance is Low at -0.14378
+New Alresford is Low at -0.14945
+Benson is Low at -0.1496
+Pangbourne is Low at -0.14961
+Riseley is Low at -0.15038
+Wyre Piddle is Low at -0.15131
+Bourn is Low at -0.15143
+Polesworth is Low at -0.15219
+Lode is Low at -0.15222
+Deeping St James is Low at -0.15258
+Hooke is Low at -0.1533
+Nettlebridge is Low at -0.15358
+Brokenborough is Low at -0.15362
+Little Rissington is Low at -0.15397
+Willen is Low at -0.15452
+High Wycombe is Low at -0.15545
+Cappenham is Low at -0.15659
+Fornham St Martin is Low at -0.15688
+Merton is Low at -0.15819
+Abingdon is Low at -0.15831
+Huntingford is Low at -0.15963
+Hawnby is Low at -0.16093
+Derwent Water at Lodore is Low at -0.16157
+Iron Acton is Low at -0.1633
+Broadland Row is Low at -0.16505
+Bourne End is Low at -0.16663
+Sandhill Bridge is Low at -0.16758
+Westy is Low at -0.16884
+Wimpole is Low at -0.16926
+Pershore is Low at -0.16958
+Ashleworth is Low at -0.17032
+Bray is Low at -0.17303
+Houghton is Low at -0.17304
+Rickmansworth is Low at -0.17344
+Welches Dam is Low at -0.17363
+Easton Grey is Low at -0.17427
+Mapledurham is Low at -0.17457
+Sonning is Low at -0.17605
+Winchester is Low at -0.17666
+Burpham is Low at -0.17683
+Bibury is Low at -0.17796
+Offord Cluny is Low at -0.17799
+North Warnborough is Low at -0.18139
+Great Shelford is Low at -0.18242
+Tideford is Low at -0.18308
+Perry Barr is Low at -0.18367
+Cogenhoe is Low at -0.18368
+Swalecliffe is Low at -0.18471
+Leigh Woods is Low at -0.1849
+Oakenshaw Wyke Bottoms is Low at -0.185
+Walsden is Low at -0.18503
+Yealmpton is Low at -0.18538
+Farmoor is Low at -0.187
+East Ayton is Low at -0.18982
+Stoke Ferry is Low at -0.19179
+Aylesbury is Low at -0.19246
+Leeds is Low at -0.19291
+Wherwell is Low at -0.19574
+Haslingfield is Low at -0.19606
+Lakenheath is Low at -0.19629
+Goulceby is Low at -0.19643
+Malmesbury is Low at -0.19704
+Buckingham is Low at -0.19788
+Allscott is Low at -0.19806
+Butteryhaugh is Low at -0.19974
+Sheffield is Low at -0.20124
+Walsall is Low at -0.20238
 Grantchester is Low at -0.20289
-Lugwardine is Low at -0.20554
-Stamford is Low at -0.2068
-Over is Low at -0.20731
-Piddlehinton is Low at -0.2074
-Lealands is Low at -0.20753
-Allscott is Low at -0.20779
-Knighton is Low at -0.20852
-Godney is Low at -0.2089
-St Erth is Low at -0.20914
-Albury is Low at -0.20977
-Halifax is Low at -0.21005
-Newbold On Avon is Low at -0.21063
-York Castle Mills Sluices is Low at -0.21083
-Water Eaton is Low at -0.21278
-Romsey is Low at -0.21433
-Bruton is Low at -0.21533
-West Auckland is Low at -0.21657
-Keddington is Low at -0.2166
-Salisbury is Low at -0.21741
-Harpsden is Low at -0.21824
-Norton Bavant is Low at -0.21824
-Weston Turville is Low at -0.2196
-Briantspuddle is Low at -0.22018
-Balmerlawn is Low at -0.2229
-Newport is Low at -0.22299
-Culham is Low at -0.22456
-Ulverston is Low at -0.22502
-Kirkham Sluices UPSTREAM is Low at -0.22717
-Dulas Brook is Low at -0.22765
-Stanford Bridge is Low at -0.22928
-Dutlas is Low at -0.23118
-Aylestone is Low at -0.23199
-Penkridge is Low at -0.23309
-Bromley is Low at -0.23364
-Wightwick is Low at -0.23492
-Monkton Deverill is Low at -0.23519
-Sheffield Meersbrook is Low at -0.23542
-Wootton Fitzpaine is Low at -0.23669
-Onibury is Low at -0.23706
-Ponsanooth is Low at -0.23747
-Loweswater is Low at -0.23763
-Hurn is Low at -0.23804
-Scalby is Low at -0.23907
-Buscot is Low at -0.23935
-Hartford Bridge is Low at -0.23999
-Wimborne Minster is Low at -0.24231
-Radcot is Low at -0.24255
-Appleton is Low at -0.24262
-Wansford Snakeholm Lock is Low at -0.24285
-Catterick Garrison is Low at -0.24312
-St Neot is Low at -0.2432
-Winterbourne is Low at -0.24479
-Partington is Low at -0.24481
-Church Stretton is Low at -0.2457
-Leeds Holbeck is Low at -0.24867
-Trowlock Island is Low at -0.24958
-Fullerton is Low at -0.25137
-Todmorden Millwood River Level is Low at -0.25141
-Chertsey is Low at -0.25153
-Leeds Killingbeck Dam is Low at -0.25226
-Denham is Low at -0.25263
-St Ives is Low at -0.25399
-Colney Street is Low at -0.25643
-Alton is Low at -0.25646
-Worcester is Low at -0.25687
-Beaminster is Low at -0.25711
-Carswell Marsh is Low at -0.25747
-Exminster is Low at -0.25754
-Stoke Newington is Low at -0.25985
-Horsham is Low at -0.26033
-Alberbury is Low at -0.26262
-Three Elms is Low at -0.26273
-Kingsclere is Low at -0.26274
-Sprotbrough is Low at -0.26427
-Mislingford is Low at -0.26512
-Port Isaac is Low at -0.26597
-Itchen Stoke is Low at -0.26665
-Cassington is Low at -0.26862
-Hawley is Low at -0.26862
-Swaythling is Low at -0.2689
-Coven is Low at -0.26903
-Saltaire is Low at -0.26982
-Sulham is Low at -0.27135
-Eaton Hastings is Low at -0.2717
-Sleaford is Low at -0.2726
-Whitchurch is Low at -0.27291
-Hempholme Pumping Station Mickley Dyke is Low at -0.27305
-Wantage is Low at -0.27364
-Burton is Low at -0.27411
-Stanks Screen Upstream is Low at -0.27523
-Middlesbrough is Low at -0.27538
-Ferndown is Low at -0.27702
-Upton is Low at -0.27728
-Satterthwaite is Low at -0.2777
-Beddington is Low at -0.27807
-Bascote is Low at -0.27872
-Nursling is Low at -0.27965
-Oulton is Low at -0.2818
-Tanbridge is Low at -0.28313
-Old Basing is Low at -0.28354
-Farndon is Low at -0.28416
-Sturminster Marshall is Low at -0.28586
-Mount is Low at -0.28618
-Dover is Low at -0.28683
-Haydon Bridge Brigwood is Low at -0.28738
-Wimbleball is Low at -0.28819
-Coniston is Low at -0.28978
-Maiden Newton is Low at -0.29
-Lower Shiplake is Low at -0.2903
-Surfleet Seas End is Low at -0.29146
-Chesham is Low at -0.29179
-Newport Pagnell is Low at -0.2927
-Shipston-On-Stour is Low at -0.29387
-Yeaton is Low at -0.29659
-Thorpe is Low at -0.29675
-Llanyblodwel is Low at -0.2976
-Tregony is Low at -0.29768
-Scurf Dyke (Hull Level) is Low at -0.29784
-Goring is Low at -0.29792
-Chew Magna is Low at -0.29799
-Fotheringhay is Low at -0.29937
-Horwich is Low at -0.29987
-Lilbourne is Low at -0.30005
-Pickering, Ings Bridge is Low at -0.30028
-Wellow is Low at -0.30047
-Carshalton is Low at -0.30139
-Wasdale is Low at -0.30208
-Haweswater Reservoir is Low at -0.30208
-Hookagate is Low at -0.30225
-Chilbolton is Low at -0.30227
-Galgate is Low at -0.30257
-Barnstaple is Low at -0.30276
-Whittonditch is Low at -0.30322
-Shifford is Low at -0.3034
-Westbourne is Low at -0.30408
-Ilfracombe is Low at -0.3045
-Cowley is Low at -0.3051
-Swallowfield is Low at -0.30619
-Upper Lee is Low at -0.30668
-Kendal is Low at -0.30763
-Bransbury is Low at -0.30766
-Skipton Eller Beck is Low at -0.30821
-Birch Green is Low at -0.30874
-Oakley is Low at -0.30931
-Stratton is Low at -0.30941
-Buckfasteligh is Low at -0.30982
-Crondall is Low at -0.30989
-Bishop Monkton is Low at -0.31013
-Newtown Linford is Low at -0.31133
-Marhamchurch is Low at -0.31488
-Lydney is Low at -0.31502
-Seaton is Low at -0.31552
-Ashley is Low at -0.31629
-Evedon is Low at -0.31657
-Levisham is Low at -0.31679
-Loughborough is Low at -0.31685
-Sandling is Low at -0.3169
-Burtle is Low at -0.31708
-Litton Cheney is Low at -0.31709
-Wootton is Low at -0.31746
-Staines is Low at -0.32051
-Marlow is Low at -0.32206
-Rushall is Low at -0.3239
+Lugwardine is Low at -0.20321
+Bradford Greenside is Low at -0.20457
+St Neots is Low at -0.20589
+St Erth is Low at -0.20667
+Stamford is Low at -0.20669
+Over is Low at -0.20677
+Godney is Low at -0.20706
+Lealands is Low at -0.20712
+Piddlehinton is Low at -0.2072
+Newbold On Avon is Low at -0.20797
+Knighton is Low at -0.2088
+Halifax is Low at -0.20887
+Albury is Low at -0.20905
+York Castle Mills Sluices is Low at -0.2108
+Water Eaton is Low at -0.21242
+Harpsden is Low at -0.2134
+Romsey is Low at -0.2144
+Keddington is Low at -0.21637
+West Auckland is Low at -0.21659
+Salisbury is Low at -0.21738
+Weston Turville is Low at -0.21791
+Norton Bavant is Low at -0.21801
+Bruton is Low at -0.2188
+Briantspuddle is Low at -0.21981
+Culham is Low at -0.22153
+Balmerlawn is Low at -0.22208
+Newport is Low at -0.22422
+Stanford Bridge is Low at -0.22526
+Kirkham Sluices UPSTREAM is Low at -0.22661
+Dulas Brook is Low at -0.22707
+Ulverston is Low at -0.22737
+Arundel is Low at -0.23037
+Aylestone is Low at -0.2316
+Dutlas is Low at -0.23215
+Onibury is Low at -0.23332
+Wootton Fitzpaine is Low at -0.23365
+Monkton Deverill is Low at -0.23418
+Sheffield Meersbrook is Low at -0.23485
+Bromley is Low at -0.23518
+Loweswater is Low at -0.23578
+Ponsanooth is Low at -0.23611
+Wightwick is Low at -0.2371
+Hurn is Low at -0.23793
+Buscot is Low at -0.23818
+Penkridge is Low at -0.23844
+Scalby is Low at -0.23863
+Hartford Bridge is Low at -0.23971
+Wimborne Minster is Low at -0.24205
+Catterick Garrison is Low at -0.24211
+St Neot is Low at -0.24218
+Wansford Snakeholm Lock is Low at -0.24403
+Trowlock Island is Low at -0.24583
+Denham is Low at -0.24646
+Coniston is Low at -0.24692
+Church Stretton is Low at -0.24757
+Appleton is Low at -0.24795
+Radcot is Low at -0.24949
+Winterbourne is Low at -0.25031
+Fullerton is Low at -0.25104
+Hempholme Pumping Station Mickley Dyke is Low at -0.25129
+St Ives is Low at -0.25299
+Partington is Low at -0.25365
+Leeds Killingbeck Dam is Low at -0.25454
+Beaminster is Low at -0.25555
+Leeds Holbeck is Low at -0.25628
+Alton is Low at -0.2564
+Colney Street is Low at -0.25673
+Exminster is Low at -0.25709
+Todmorden Millwood River Level is Low at -0.25988
+Horsham is Low at -0.26011
+Chertsey is Low at -0.26013
+Kingsclere is Low at -0.26276
+Three Elms is Low at -0.26292
+Stoke Newington is Low at -0.26313
+Carswell Marsh is Low at -0.26339
+Sprotbrough is Low at -0.26495
+Mislingford is Low at -0.26581
+Coven is Low at -0.26585
+Saltaire is Low at -0.2661
+Port Isaac is Low at -0.26616
+Itchen Stoke is Low at -0.26656
+Worcester is Low at -0.26739
+Cassington is Low at -0.26784
+Hawley is Low at -0.26853
+Swaythling is Low at -0.26927
+Wantage is Low at -0.27015
+Bascote is Low at -0.27084
+Sulham is Low at -0.27114
+Whitchurch is Low at -0.27273
+Sleaford is Low at -0.27314
+Burton is Low at -0.27441
+Middlesbrough is Low at -0.27458
+Farndon is Low at -0.27503
+Stanks Screen Upstream is Low at -0.2751
+Eaton Hastings is Low at -0.27533
+Ferndown is Low at -0.27537
+Alberbury is Low at -0.27589
+Satterthwaite is Low at -0.2767
+Upton is Low at -0.27684
+Beddington is Low at -0.27758
+Nursling is Low at -0.27766
+Lower Shiplake is Low at -0.28105
+Tanbridge is Low at -0.28315
+Old Basing is Low at -0.28344
+Oulton is Low at -0.28389
+Haydon Bridge Brigwood is Low at -0.28401
+Mount is Low at -0.28519
+Sturminster Marshall is Low at -0.2854
+Wimbleball is Low at -0.28662
+Dover is Low at -0.28681
+Maiden Newton is Low at -0.28757
+Tregony is Low at -0.28827
+Beckenham is Low at -0.29077
+Shifford is Low at -0.29111
+Goring is Low at -0.29117
+Surfleet Seas End is Low at -0.29122
+Chesham is Low at -0.29143
+Newport Pagnell is Low at -0.29239
+Yeaton is Low at -0.29291
+Thorpe is Low at -0.29294
+Sheepwash Bridge is Low at -0.29366
+Shipston-On-Stour is Low at -0.29372
+Lilbourne is Low at -0.29495
+Birch Green is Low at -0.2952
+Scurf Dyke (Hull Level) is Low at -0.29553
+Sandling is Low at -0.29589
+Hookagate is Low at -0.29791
+Chew Magna is Low at -0.29806
+Horwich is Low at -0.29856
+Fotheringhay is Low at -0.2991
+Wellow is Low at -0.30025
+Wasdale is Low at -0.30029
+Galgate is Low at -0.30091
+Carshalton is Low at -0.30134
+Barnstaple is Low at -0.30228
+Swallowfield is Low at -0.30298
+Whittonditch is Low at -0.3031
+Ilfracombe is Low at -0.30421
+Westbourne is Low at -0.30473
+Oakley is Low at -0.30546
+Llanyblodwel is Low at -0.30549
+Upper Lee is Low at -0.30582
+Pickering, Ings Bridge is Low at -0.30631
+Chilbolton is Low at -0.30683
+Kendal is Low at -0.30708
+Haweswater Reservoir is Low at -0.30767
+Buckfasteligh is Low at -0.30815
+Burtle is Low at -0.30825
+Bransbury is Low at -0.30837
+Newtown Linford is Low at -0.30879
+Stratton is Low at -0.30937
+Crondall is Low at -0.30975
+Bishop Monkton is Low at -0.30989
+Lydney is Low at -0.31427
+Seaton is Low at -0.31505
+Cowley is Low at -0.31553
+Marlow is Low at -0.31594
+Marhamchurch is Low at -0.31604
+Evedon is Low at -0.31632
+Wootton is Low at -0.31657
+Ashley is Low at -0.31676
+Levisham is Low at -0.31684
+Litton Cheney is Low at -0.31685
+Skipton Eller Beck is Low at -0.31805
+Loughborough is Low at -0.31841
+Staines is Low at -0.31893
 Bridport is Low at -0.324
-Earby is Low at -0.32413
-Horncastle is Low at -0.32539
-South Newton is Low at -0.32565
-Frilsham is Low at -0.32658
-Westwood is Low at -0.3308
+Rushall is Low at -0.32447
+Horncastle is Low at -0.32485
+South Newton is Low at -0.32539
+Earby is Low at -0.32576
+Westwood is Low at -0.32578
+Roydon is Low at -0.32616
+Frilsham is Low at -0.3265
+Canklow Regulator is Low at -0.32822
+Northmoor Green is Low at -0.32835
+Wakefield Brooks Bank is Low at -0.33039
 Little Missenden is Low at -0.331
-Honiton is Low at -0.33105
-Wakefield Brooks Bank is Low at -0.33123
-Meaford is Low at -0.33521
-Northmoor Green is Low at -0.33588
-Sidmouth is Low at -0.33668
-Relubbus is Low at -0.33865
-Pickering Costa Beck is Low at -0.33885
-Eton is Low at -0.33954
-West Meon is Low at -0.33998
-Roydon is Low at -0.33999
-Clanfield is Low at -0.34002
-Penberth is Low at -0.3402
-Fordingbridge is Low at -0.34157
-Pudsey is Low at -0.3416
-Newbury is Low at -0.34262
-Lambourn is Low at -0.34351
+Honiton is Low at -0.3311
+Nun Appleton is Low at -0.33485
+Sidmouth is Low at -0.33628
+Penberth is Low at -0.33908
+West Meon is Low at -0.3398
+Great Chart is Low at -0.33987
+Clanfield is Low at -0.34034
+Fordingbridge is Low at -0.34101
+Pickering Costa Beck is Low at -0.34183
+Pudsey is Low at -0.34241
+Newbury is Low at -0.34268
+Lambourn is Low at -0.3429
+Ollerton is Low at -0.34299
 Codford St Mary is Low at -0.34357
-Long Melford is Low at -0.34398
+Long Melford is Low at -0.34394
 Sandford-on-Thames is Low at -0.344
-Ollerton is Low at -0.34549
-Beckenham is Low at -0.3458
-Williton is Low at -0.34583
-Sheepwash Bridge is Low at -0.34597
-Tidmarsh is Low at -0.34632
-Catterick FAS Brough Park is Low at -0.34667
-Glossop is Low at -0.34675
-Old Windsor is Low at -0.349
-Witham is Low at -0.34901
-Canklow Regulator is Low at -0.34923
-Bromham is Low at -0.34961
-Bossington is Low at -0.34963
-Sherfield On Loddon is Low at -0.34993
-Welney Causeway is Low at -0.35092
-Great Chart is Low at -0.35109
-Loxley is Low at -0.3517
-Clitheroe is Low at -0.3519
-Egremont is Low at -0.35216
-Southgate is Low at -0.35461
-Fakenham is Low at -0.35644
-Liversedge is Low at -0.35768
-Ingworth is Low at -0.358
-newport is Low at -0.35867
-Graylingwell is Low at -0.36119
-Hirst Courtney is Low at -0.36166
-Ely is Low at -0.36205
-Tiverton Parkway is Low at -0.36395
-Ravensthorpe is Low at -0.365
-Carlton is Low at -0.36548
-Deerhurst is Low at -0.36617
-Wilton is Low at -0.36681
-Bodicote is Low at -0.36758
-North Hull National Avenue is Low at -0.3676
-Yarcombe is Low at -0.36844
-King's Bromley is Low at -0.36869
-Skipton Waller Hill Reservoir Upstream Level is Low at -0.36929
-Moorhouse is Low at -0.36954
-Sellindge is Low at -0.36985
+Ely is Low at -0.34406
+Glossop is Low at -0.34522
+Williton is Low at -0.34595
+Tidmarsh is Low at -0.34648
+Relubbus is Low at -0.34904
+Bromham is Low at -0.34912
+Bossington is Low at -0.34931
+Witham is Low at -0.34969
+Catterick FAS Brough Park is Low at -0.34988
+Meaford is Low at -0.3515
+Egremont is Low at -0.35226
+Clitheroe is Low at -0.35248
+Loxley is Low at -0.35295
+King's Bromley is Low at -0.35419
+newport is Low at -0.35583
+Fakenham is Low at -0.35617
+Hirst Courtney is Low at -0.35642
+Sherfield On Loddon is Low at -0.35674
+Liversedge is Low at -0.35761
+Ingworth is Low at -0.35781
+Eton is Low at -0.35945
+Tiverton Parkway is Low at -0.36066
+Graylingwell is Low at -0.36107
+Carlton is Low at -0.36208
+Welney Causeway is Low at -0.36329
+North Hull National Avenue is Low at -0.36569
+Ravensthorpe is Low at -0.36611
+Wilton is Low at -0.36644
+Yarcombe is Low at -0.36674
+Bodicote is Low at -0.36685
+Southgate is Low at -0.36767
+Newby Bridge is Low at -0.36885
+Sellindge is Low at -0.36967
+Shefford is Low at -0.36985
 Swinford is Low at -0.37
-Shefford is Low at -0.37067
-Newby Bridge is Low at -0.37146
-Brigsley is Low at -0.37167
-Manthorpe is Low at -0.37192
-Newhey is Low at -0.37331
-Canklow Washlands is Low at -0.374
-Bourton Grounds is Low at -0.37523
-Blawith is Low at -0.37574
-Kegworth is Low at -0.37663
-Dearne Washlands is Low at -0.37764
-Fairford is Low at -0.37842
-London Apprentice is Low at -0.37852
-Stanford In The Vale is Low at -0.37858
-Lancaster is Low at -0.37859
-Parkend is Low at -0.37888
-Ruskington is Low at -0.37943
-Harpenden is Low at -0.38013
-Amesbury is Low at -0.38078
-Lowdham is Low at -0.38187
-Warenmill is Low at -0.38262
-Ewelme is Low at -0.38306
-Shalford is Low at -0.38366
-Little Ponton is Low at -0.3842
-Polperro is Low at -0.38466
-Cookham is Low at -0.38506
-Bloxham is Low at -0.38605
-Hunsingore is Low at -0.38654
-St Breward is Low at -0.38863
-Dore is Low at -0.38883
-Somerford Keynes is Low at -0.38926
-Macclesfield is Low at -0.38974
-Huddersfield is Low at -0.38997
-Swimbridge is Low at -0.39143
-Hessle is Low at -0.39148
-Stoneferry Bridge is Low at -0.3953
-Laceby is Low at -0.39552
-Cockermouth is Low at -0.39577
-Cricklade is Low at -0.39625
-Mitchell Wyke Ferry Bay is Low at -0.39746
-Manvers Old Moor Lane is Low at -0.398
-Maidstone is Low at -0.39833
-Claypole is Low at -0.40073
-Partney is Low at -0.40087
-North Tidworth is Low at -0.40185
-Exeter is Low at -0.4029
-Warwick Bridge is Low at -0.40307
-Covington is Low at -0.40404
-Willington is Low at -0.40444
-Jeffy Knotts is Low at -0.40474
-Burnley is Low at -0.40756
-West Kington is Low at -0.40867
-Oaksey is Low at -0.40971
-Kielder reservoir is Low at -0.4107
-East Farleigh is Low at -0.41112
-Pooley Bridge is Low at -0.41115
-Sawbridgeworth is Low at -0.41314
-Ripponden is Low at -0.41318
-Glastonbury is Low at -0.41456
-Congleton is Low at -0.41514
-Kingston Upon Thames is Low at -0.41543
-Hemel Hempstead is Low at -0.4161
-Shardlow is Low at -0.41769
-Wimbleball Footbridge is Low at -0.41869
+Brigsley is Low at -0.37149
+Manthorpe is Low at -0.37161
+Skipton Waller Hill Reservoir Upstream Level is Low at -0.37161
+Newhey is Low at -0.37208
+Kegworth is Low at -0.37471
+Blawith is Low at -0.37473
+Bourton Grounds is Low at -0.37612
+Deerhurst is Low at -0.37697
+London Apprentice is Low at -0.37777
+Stanford In The Vale is Low at -0.37784
+Ruskington is Low at -0.3779
+Lancaster is Low at -0.37828
+Fairford is Low at -0.37839
+Cookham is Low at -0.37929
+Dearne Washlands is Low at -0.38029
+Amesbury is Low at -0.38092
+Parkend is Low at -0.38126
+Harpenden is Low at -0.38151
+Maidstone is Low at -0.38161
+Warenmill is Low at -0.38277
+Ewelme is Low at -0.38294
+Moorhouse is Low at -0.38329
+Shalford is Low at -0.38344
+Little Ponton is Low at -0.38365
+Canklow Washlands is Low at -0.38413
+Polperro is Low at -0.38421
+Lowdham is Low at -0.38456
+Bloxham is Low at -0.38604
+St Breward is Low at -0.38685
+Somerford Keynes is Low at -0.38771
+Cricklade is Low at -0.38778
+Macclesfield is Low at -0.3878
+Huddersfield is Low at -0.38859
+Dore is Low at -0.38931
+Hunsingore is Low at -0.3902
+Swimbridge is Low at -0.39294
+Cockermouth is Low at -0.395
+Hessle is Low at -0.39504
+Laceby is Low at -0.39532
+Manvers Old Moor Lane is Low at -0.39643
+Mitchell Wyke Ferry Bay is Low at -0.39682
+Willington is Low at -0.39722
+Oaksey is Low at -0.39811
+Jeffy Knotts is Low at -0.39824
+Partney is Low at -0.39973
+Claypole is Low at -0.40035
+Exeter is Low at -0.40151
+North Tidworth is Low at -0.40187
+Warwick Bridge is Low at -0.40241
+Covington is Low at -0.40343
+Burnley is Low at -0.40507
+East Farleigh is Low at -0.40552
+Pooley Bridge is Low at -0.41053
+Ripponden is Low at -0.41094
+West Kington is Low at -0.41127
+Kielder reservoir is Low at -0.41184
+Sawbridgeworth is Low at -0.41192
+Glastonbury is Low at -0.41201
+Congleton is Low at -0.41313
+Wimbleball Footbridge is Low at -0.41507
+Shardlow is Low at -0.4152
+Hemel Hempstead is Low at -0.41527
+Newnham Bridge is Low at -0.41592
+Stoneferry Bridge is Low at -0.41852
+Iver is Low at -0.41892
 West Drayton is Low at -0.419
-Leintwardine is Low at -0.41976
-Iver is Low at -0.42031
-Chesterfield Avenue Washlands is Low at -0.4205
-Whitwell is Low at -0.42085
-Bishops Frome is Low at -0.42133
-Swans Barn, Coleshill is Low at -0.42227
-Melksham is Low at -0.42354
-Little Bytham is Low at -0.42387
-Skipton is Low at -0.42404
-Littlebourne is Low at -0.42499
-Welham bridge is Low at -0.42734
-Kings Somborne is Low at -0.42769
-Kirkstall is Low at -0.4288
-Kingthorpe is Low at -0.42957
-Ebbesbourne Wake is Low at -0.42974
-Great Coates is Low at -0.42996
-Kennford is Low at -0.43063
-Nunton is Low at -0.43212
-Turvey is Low at -0.434
+Swans Barn, Coleshill is Low at -0.42172
+Leintwardine is Low at -0.42174
+Melksham is Low at -0.42236
+Welham bridge is Low at -0.42322
+Little Bytham is Low at -0.42367
+Whitwell is Low at -0.42373
+Skipton is Low at -0.42452
+Kings Somborne is Low at -0.42458
+Littlebourne is Low at -0.42489
+Kingston Upon Thames is Low at -0.42649
+Kingthorpe is Low at -0.42871
+Tavistock is Low at -0.42962
+Ebbesbourne Wake is Low at -0.42968
+Great Coates is Low at -0.43011
+Kennford is Low at -0.43039
+Kirkstall is Low at -0.43177
+Nunton is Low at -0.43191
+Turvey is Low at -0.43242
+Harbertonford is Low at -0.43244
 St Mary Bourne is Low at -0.43406
-Hadleigh is Low at -0.43411
-Harbertonford is Low at -0.43505
-Swanage is Low at -0.43507
-Tavistock is Low at -0.43518
-Stokesley is Low at -0.43525
-Polstead is Low at -0.43692
-Doniford is Low at -0.43732
-Bramham is Low at -0.43857
-Witney is Low at -0.4399
-Newnham Bridge is Low at -0.44006
-Hovingham is Low at -0.44044
-Marlborough is Low at -0.44126
-Nun Appleton is Low at -0.44164
-Millbrook is Low at -0.44239
-Dunswell Ennerdale Bridge is Low at -0.44352
-Pickering is Low at -0.44551
-Lifton is Low at -0.44581
+Swanage is Low at -0.43497
+Hadleigh is Low at -0.43646
+Stokesley is Low at -0.43678
+Polstead is Low at -0.4369
+Doniford is Low at -0.4376
+Chesterfield Avenue Washlands is Low at -0.4382
+Hovingham is Low at -0.4396
+Bishops Frome is Low at -0.44009
+Marlborough is Low at -0.44133
+Lifton is Low at -0.44232
+Bampton is Low at -0.44265
+Witney is Low at -0.4433
+Bramham is Low at -0.44357
+Pickering is Low at -0.44526
+Warlaby is Low at -0.44544
+Millbrook is Low at -0.44547
 Steventon is Low at -0.446
-Bampton is Low at -0.44642
-Warlaby is Low at -0.44645
-Boultham is Low at -0.44923
-Milverton is Low at -0.45266
-Budbridge is Low at -0.45312
-Eckington is Low at -0.45341
-Chartham is Low at -0.45359
-Branston is Low at -0.45549
-East Stoke is Low at -0.4576
-Shrewsbury is Low at -0.45868
-White Lackington is Low at -0.46014
-Rodington is Low at -0.4602
-Weston Bampfylde is Low at -0.46034
-Wendlebury is Low at -0.46063
-Culmstock is Low at -0.46152
-Wokingham is Low at -0.46167
-Portsmouth is Low at -0.46194
-Boynton is Low at -0.46304
-Ordsall is Low at -0.46482
-Copley is Low at -0.4657
-Tichfiled is Low at -0.46627
-Sharnbrook is Low at -0.46628
-Prestbury is Low at -0.46646
-Hedgehog Bridge is Low at -0.46689
-Longbridge is Low at -0.46755
-Longford is Low at -0.46856
-Milton On Stour is Low at -0.46859
-Hamstall Ridware is Low at -0.47176
-Bucklebury is Low at -0.47268
-Windley is Low at -0.47269
-North Witham is Low at -0.47329
-Stamfordham is Low at -0.47336
-Braunton is Low at -0.47377
-Combe Martin is Low at -0.47572
-Swanton Morley is Low at -0.47587
-Redbourn is Low at -0.47629
-Thirlmere Reservoir is Low at -0.47816
-Easton is Low at -0.47855
-Bickington is Low at -0.47903
-West Luccombe is Low at -0.48139
-Diss is Low at -0.48166
-Cononley is Low at -0.48277
-Ringwood is Low at -0.48313
-Tewin is Low at -0.48401
-Camelford is Low at -0.48464
-Norlands Lane FD is Low at -0.48547
-Abbeystead is Low at -0.48642
-Epperstone is Low at -0.48654
-South Cerney is Low at -0.48732
-Kenton is Low at -0.48743
-Addlestone is Low at -0.48758
-Eathorpe is Low at -0.48817
-Hothfield is Low at -0.48853
-Temple Mill, Twycross is Low at -0.48885
-Euxton is Low at -0.49019
-Steamer Pier, Pooley Bridge is Low at -0.49043
-Tisbury is Low at -0.49261
-Stapleton is Low at -0.4938
-Roxton is Low at -0.4962
-Glazebrook is Low at -0.49662
-Nettleham, Lincs is Low at -0.49687
-Pointon is Low at -0.49742
-Huddersfield Royd Street is Low at -0.49885
-Barbrook is Low at -0.50247
-Boscastle is Low at -0.50263
-East Meon is Low at -0.50308
-Melverley is Low at -0.50309
-Sprouston is Low at -0.50526
-Oxford is Low at -0.50551
-Watford is Low at -0.50624
-Easby is Low at -0.50711
-Chelmsford is Low at -0.50912
-Oakworth is Low at -0.50976
-Bragbury End is Low at -0.50994
-Kingfisher, Cockermouth is Low at -0.51029
-Creeting St Mary is Low at -0.51048
-Kenilworth is Low at -0.5122
-Sutton Gault is Low at -0.51307
-Manchester is Low at -0.51436
-Hertford is Low at -0.51473
-Cockfield is Low at -0.51526
-West Winch is Low at -0.51553
-Upavon is Low at -0.51578
-Hartburn is Low at -0.51712
-Idmiston is Low at -0.51716
-Welwyn is Low at -0.51736
-High Houses is Low at -0.51751
-Baston is Low at -0.51869
-Northolt is Low at -0.51889
-Edmonton is Low at -0.51945
-Heaton Mill is Low at -0.52002
-Gillingham is Low at -0.52067
-Wakefield is Low at -0.52171
-Hoddesdon is Low at -0.52352
-Shepshed is Low at -0.52429
-Knowle is Low at -0.52515
-Coldblow is Low at -0.52844
-Cross Hills is Low at -0.52866
-Sidbury is Low at -0.52913
-Milford is Low at -0.53204
-Capernwray is Low at -0.53334
-South Wigston is Low at -0.53481
-Titley Mill is Low at -0.535
-Nene Valley is Low at -0.53635
-Croston is Low at -0.53708
-Warenford is Low at -0.53772
-Charmouth is Low at -0.53801
-Otford is Low at -0.53867
-Launceston is Low at -0.53915
-Grasmere is Low at -0.53951
-Goodleigh is Low at -0.54112
-Kites Hardwick is Low at -0.54173
-Porlock is Low at -0.54449
-Harford is Low at -0.54561
-St Kew Highway is Low at -0.54585
+Chartham is Low at -0.44658
+Boultham is Low at -0.44983
+Branston is Low at -0.45239
+Milverton is Low at -0.4525
+Budbridge is Low at -0.45333
+Rodington is Low at -0.45409
+Dunswell Ennerdale Bridge is Low at -0.45533
+East Stoke is Low at -0.45624
+Shrewsbury is Low at -0.45671
+Wokingham is Low at -0.45864
+White Lackington is Low at -0.45973
+Wendlebury is Low at -0.46135
+Prestbury is Low at -0.4618
+Culmstock is Low at -0.46192
+Ordsall is Low at -0.46248
+Boynton is Low at -0.46316
+Weston Bampfylde is Low at -0.46409
+Longbridge is Low at -0.46424
+Copley is Low at -0.46553
+Hamstall Ridware is Low at -0.46563
+Sharnbrook is Low at -0.4661
+Tichfiled is Low at -0.46613
+Longford is Low at -0.46644
+Milton On Stour is Low at -0.46743
+Portsmouth is Low at -0.4683
+Windley is Low at -0.47056
+Hedgehog Bridge is Low at -0.47079
+North Witham is Low at -0.47201
+Bucklebury is Low at -0.47245
+Braunton is Low at -0.47292
+Combe Martin is Low at -0.47411
+Swanton Morley is Low at -0.47577
+Thirlmere Reservoir is Low at -0.47614
+Redbourn is Low at -0.47614
+Stamfordham is Low at -0.47734
+Easton is Low at -0.47829
+Eathorpe is Low at -0.4783
+Bickington is Low at -0.47866
+West Luccombe is Low at -0.48129
+Diss is Low at -0.48134
+Ringwood is Low at -0.48153
+Tewin is Low at -0.48303
+Norlands Lane FD is Low at -0.48423
+Addlestone is Low at -0.48542
+Epperstone is Low at -0.48549
+Abbeystead is Low at -0.48626
+Camelford is Low at -0.4864
+South Cerney is Low at -0.48678
+Melverley is Low at -0.48696
+Hothfield is Low at -0.48732
+Steamer Pier, Pooley Bridge is Low at -0.48921
+Tisbury is Low at -0.4915
+Temple Mill, Twycross is Low at -0.49185
+Kenton is Low at -0.49192
+Roxton is Low at -0.49571
+Nettleham, Lincs is Low at -0.49634
+Pointon is Low at -0.49723
+Huddersfield Royd Street is Low at -0.49889
+Stapleton is Low at -0.49991
+Watford is Low at -0.49993
+Sprouston is Low at -0.50095
+Boscastle is Low at -0.50188
+Barbrook is Low at -0.50195
+East Meon is Low at -0.50405
+Oxford is Low at -0.50476
+Euxton is Low at -0.50511
+Kingfisher, Cockermouth is Low at -0.50564
+Easby is Low at -0.50663
+Oakworth is Low at -0.5069
+Cononley is Low at -0.5081
+Chelmsford is Low at -0.50896
+Sidcup is Low at -0.50907
+Creeting St Mary is Low at -0.51031
+Sutton Gault is Low at -0.51126
+Upavon is Low at -0.51142
+Hertford is Low at -0.51279
+Kenilworth is Low at -0.51316
+Cockfield is Low at -0.5151
+High Houses is Low at -0.51575
+West Winch is Low at -0.51593
+Hoddesdon is Low at -0.51676
+Idmiston is Low at -0.51705
+Welwyn is Low at -0.51714
+Baston is Low at -0.5181
+Hartburn is Low at -0.51825
+Gillingham is Low at -0.51904
+Wakefield is Low at -0.51966
+Heaton Mill is Low at -0.5197
+Manchester is Low at -0.52048
+Northolt is Low at -0.52232
+Bragbury End is Low at -0.52254
+Edmonton is Low at -0.52286
+Croston is Low at -0.52414
+South Wigston is Low at -0.52548
+Sidbury is Low at -0.52676
+Knowle is Low at -0.52694
+Coldblow is Low at -0.52943
+Milford is Low at -0.53265
+Cross Hills is Low at -0.53367
+Capernwray is Low at -0.5339
+Warenford is Low at -0.53546
+Harford is Low at -0.53673
+Launceston is Low at -0.53811
+Titley Mill is Low at -0.53825
+Kites Hardwick is Low at -0.53879
+Otford is Low at -0.53937
+Shepshed is Low at -0.53993
+Goodleigh is Low at -0.54012
+Elkesley is Low at -0.54098
+Charmouth is Low at -0.54172
+Nene Valley is Low at -0.54287
+Porlock is Low at -0.54355
+Grasmere is Low at -0.54383
+Glazebrook is Low at -0.54419
+St Kew Highway is Low at -0.54483
+Wareside is Low at -0.54491
+Lingfield is Low at -0.54641
 Bradworthy is Low at -0.547
-Elkesley is Low at -0.54779
-Gwills is Low at -0.54871
-Oakington is Low at -0.54904
-Lingfield is Low at -0.54943
-Woolsthorpe-By-Colsterworth is Low at -0.54981
-Hellifield is Low at -0.55024
-Helston is Low at -0.55087
-Binfield is Low at -0.55089
-Chobham is Low at -0.55093
-Victoria Bridge, Kendal is Low at -0.55131
-Cleckheaton is Low at -0.55347
-Little Bowden is Low at -0.55392
-Wareside is Low at -0.55397
-White House Gardens, Penrith is Low at -0.55471
-Ampney St Peter is Low at -0.55591
-Golden Green is Low at -0.55617
-Boxford is Low at -0.55648
-Saxmundham is Low at -0.55725
-Apperley is Low at -0.55731
-Sharnford is Low at -0.55939
-Chalgrove is Low at -0.55972
-Stourbridge is Low at -0.56035
-Sandon is Low at -0.56279
-Stansted Mountfitchet is Low at -0.56296
-Chapel Hill is Low at -0.56463
-Ashburton is Low at -0.57014
-Beetham is Low at -0.57062
-Burn Bridge is Low at -0.57398
-West End is Low at -0.5748
-Frodingham Bridge is Low at -0.57642
-Sidcup is Low at -0.57655
-Godalming is Low at -0.5774
-Dawlish is Low at -0.57961
-Bredon is Low at -0.58098
-Elland is Low at -0.58113
-Park Farm is Low at -0.58133
-Blackwater is Low at -0.58225
-Mancetter is Low at -0.58388
-Launton is Low at -0.58598
-Linton is Low at -0.58636
-Cannington is Low at -0.58715
-Northern Moor is Low at -0.58737
-Little Walsingham is Low at -0.58785
-Muddiford is Low at -0.58814
-Petts Wood is Low at -0.58957
-Byton is Low at -0.58982
-Gurnard is Low at -0.59037
-Lissett New Bridge is Low at -0.59155
-Dorchester is Low at -0.59179
-Plympton is Low at -0.59457
-Bulwell is Low at -0.59628
-Hurstbourne Priors is Low at -0.59729
-Combs Ford is Low at -0.59729
-Okehampton is Low at -0.59747
-Myerscough is Low at -0.59797
-Bishops Hull is Low at -0.59892
-Ludlow is Low at -0.59944
-Trengune is Low at -0.60041
-Towcester is Low at -0.60057
-Wimpstone, Stratford-upon-Avon is Low at -0.60238
-Scurf Dyke (Dyke Level) is Low at -0.60442
-Littleborough is Low at -0.60561
-Legburthwaite is Low at -0.60795
-Stapleford is Low at -0.61048
-Ripon Birkby Nab is Low at -0.61123
-Crayford is Low at -0.61175
-Germansweek is Low at -0.61271
-Lofthouse is Low at -0.61419
-Knaresborough is Low at -0.6151
-Mickletown Ings Washland is Low at -0.61533
-Pinner is Low at -0.61584
-Pateley Bridge is Low at -0.61755
-Aintree is Low at -0.62096
-Shipley is Low at -0.62099
-Wray is Low at -0.62103
-Waltham Cross is Low at -0.62237
-Mevagissey is Low at -0.62324
-Didworthy is Low at -0.62353
-Thorington Street is Low at -0.62433
-Dronfield is Low at -0.62499
-Shaw is Low at -0.62571
-Agnes Meadow Bridge, Ashbourne is Low at -0.62578
-Newburgh is Low at -0.62711
-Bodmin is Low at -0.62734
-Maidenhead is Low at -0.62736
-Barcombe is Low at -0.6279
-Saltford is Low at -0.62869
-Fenny Bridges is Low at -0.63059
-Mansfield is Low at -0.63085
-Melton Mowbray is Low at -0.63179
-Throop is Low at -0.63225
-Todmorden is Low at -0.63236
-South Elmsall is Low at -0.63317
-Hedon Westlands Drain is Low at -0.6341
-Portinscale is Low at -0.63467
-Wick is Low at -0.63488
-Shropham is Low at -0.6351
-Walton is Low at -0.63575
-Beckfoot is Low at -0.63623
-Bovey Tracey Wifford Footbridge is Low at -0.63801
-Allington is Low at -0.63859
-Skelmanthorpe Park Gate is Low at -0.64207
-Midsomer Norton is Low at -0.64359
-Great Ayton is Low at -0.64471
-Farnworth is Low at -0.64679
-Powerstock is Low at -0.6471
-Stratton St Margaret is Low at -0.64924
-Skelton On Ure is Low at -0.65201
-Trowell is Low at -0.65214
-Hougham is Low at -0.65231
+Chobham is Low at -0.54713
+Oakington is Low at -0.54807
+Gwills is Low at -0.54817
+Woolsthorpe-By-Colsterworth is Low at -0.54921
+Victoria Bridge, Kendal is Low at -0.54974
+Hellifield is Low at -0.55037
+White House Gardens, Penrith is Low at -0.55103
+Binfield is Low at -0.55166
+Little Bowden is Low at -0.55252
+Cleckheaton is Low at -0.55275
+Ampney St Peter is Low at -0.55602
+Boxford is Low at -0.55654
+Saxmundham is Low at -0.55682
+Chalgrove is Low at -0.55704
+Stansted Mountfitchet is Low at -0.55761
+Sharnford is Low at -0.56097
+Sandon is Low at -0.56253
+Chapel Hill is Low at -0.56777
+Helston is Low at -0.56793
+Apperley is Low at -0.57006
+Ashburton is Low at -0.57197
+Beetham is Low at -0.57218
+Stourbridge is Low at -0.57312
+Burn Bridge is Low at -0.5756
+Godalming is Low at -0.57629
+Park Farm is Low at -0.57722
+Blackwater is Low at -0.57793
+Frodingham Bridge is Low at -0.5785
+Dawlish is Low at -0.57917
+Launton is Low at -0.58005
+West End is Low at -0.58097
+Dorchester is Low at -0.58208
+Linton is Low at -0.58588
+Byton is Low at -0.58604
+Elland is Low at -0.58656
+Bredon is Low at -0.58698
+Little Walsingham is Low at -0.58754
+Muddiford is Low at -0.58779
+Petts Wood is Low at -0.58833
+Cannington is Low at -0.58946
+Mancetter is Low at -0.59057
+Plympton is Low at -0.59135
+Gurnard is Low at -0.59231
+Lissett New Bridge is Low at -0.59346
+Ludlow is Low at -0.59443
+Combs Ford is Low at -0.59687
+Hurstbourne Priors is Low at -0.59727
+Bishops Hull is Low at -0.59882
+Bulwell is Low at -0.59938
+Towcester is Low at -0.59954
+Okehampton is Low at -0.601
+Wimpstone, Stratford-upon-Avon is Low at -0.60132
+Northern Moor is Low at -0.60133
+Scurf Dyke (Dyke Level) is Low at -0.6035
+Trengune is Low at -0.60354
+Newburgh is Low at -0.60448
+Legburthwaite is Low at -0.60796
+Ripon Birkby Nab is Low at -0.60868
+Pateley Bridge is Low at -0.60952
+Stapleford is Low at -0.61053
+Wray is Low at -0.6114
+Germansweek is Low at -0.61154
+Crayford is Low at -0.61159
+Golden Green is Low at -0.6119
+Maidenhead is Low at -0.6133
+Pinner is Low at -0.61363
+Mickletown Ings Washland is Low at -0.61453
+Littleborough is Low at -0.61579
+Melton Mowbray is Low at -0.61633
+Knaresborough is Low at -0.61707
+Lofthouse is Low at -0.61824
+Didworthy is Low at -0.61923
+Aintree is Low at -0.62099
+Thorington Street is Low at -0.6217
+Waltham Cross is Low at -0.6219
+Mevagissey is Low at -0.62325
+Dronfield is Low at -0.62414
+Barcombe is Low at -0.62529
+Shaw is Low at -0.62537
+Shipley is Low at -0.62581
+Bodmin is Low at -0.62644
+Agnes Meadow Bridge, Ashbourne is Low at -0.62748
+Beckfoot is Low at -0.62829
+Stone is Low at -0.62903
+Saltford is Low at -0.62928
+Mansfield is Low at -0.63143
+Throop is Low at -0.63181
+South Elmsall is Low at -0.63209
+Myerscough is Low at -0.63342
+Fenny Bridges is Low at -0.6335
+Shropham is Low at -0.63379
+Portinscale is Low at -0.63458
+Hedon Westlands Drain is Low at -0.63476
+Todmorden is Low at -0.63579
+Wick is Low at -0.63674
+Walton is Low at -0.6378
+Allington is Low at -0.63804
+Skelmanthorpe Park Gate is Low at -0.63999
+Great Ayton is Low at -0.64434
+Powerstock is Low at -0.64438
+Midsomer Norton is Low at -0.64649
+Farnworth is Low at -0.6487
+Canterbury is Low at -0.65005
+Hougham is Low at -0.65133
+Trowell is Low at -0.65142
 Perranporth is Low at -0.654
-Canterbury is Low at -0.65476
-Bekesbourne is Low at -0.65629
-Letcombe Regis is Low at -0.65639
-Hamsterley is Low at -0.66042
-Ewen is Low at -0.6616
-Huddersfield York Avenue is Low at -0.66314
-Rewe is Low at -0.66361
-Holymoorside is Low at -0.66488
-Wyre Forest is Low at -0.66537
-Greenford is Low at -0.66574
-Chulmleigh is Low at -0.66622
-Waterfoot is Low at -0.66716
-Worksop is Low at -0.66742
-Keighley is Low at -0.66746
-Stone is Low at -0.66896
-Upper Inglesham is Low at -0.66943
-London Colney is Low at -0.67058
-Leehamford is Low at -0.67109
-Beverley is Low at -0.67144
-Brasted is Low at -0.67202
-Wilfholme PS is Low at -0.67257
-Curdridge is Low at -0.67593
-Stockdalewath is Low at -0.67697
-Lower Darwen is Low at -0.67729
-Greenfield is Low at -0.67863
-Hayes is Low at -0.67896
-Market Rasen is Low at -0.67963
-Ladock is Low at -0.68007
-Grendon Underwood is Low at -0.68121
-Corpusty is Low at -0.68396
-Weetwood Bridge is Low at -0.68425
+Bekesbourne is Low at -0.65628
+Letcombe Regis is Low at -0.65634
+Skelton On Ure is Low at -0.65642
+London Colney is Low at -0.65859
+Hamsterley is Low at -0.66004
+Ewen is Low at -0.66153
+Chulmleigh is Low at -0.66159
+Rewe is Low at -0.66201
+Huddersfield York Avenue is Low at -0.66309
+Bovey Tracey Wifford Footbridge is Low at -0.66383
+Keighley is Low at -0.66471
+Greenford is Low at -0.66607
+Holymoorside is Low at -0.66619
+Wyre Forest is Low at -0.66745
+Worksop is Low at -0.66801
+Upper Inglesham is Low at -0.66893
+Hayes is Low at -0.66927
+Grendon Underwood is Low at -0.67005
+Brasted is Low at -0.67019
+Leehamford is Low at -0.67021
+Curdridge is Low at -0.67235
+Beverley is Low at -0.67376
+Waterfoot is Low at -0.675
+Stockdalewath is Low at -0.67613
+Wilfholme PS is Low at -0.67635
+New Malden is Low at -0.6786
+Ladock is Low at -0.67865
+Market Rasen is Low at -0.67889
+Corpusty is Low at -0.68381
+Greenfield is Low at -0.68391
+Market Harborough is Low at -0.68422
 Dane End is Low at -0.68428
+Dunbridge is Low at -0.68431
 Widford is Low at -0.68471
-Dunbridge is Low at -0.68493
-Cuddington is Low at -0.68583
-Market Harborough is Low at -0.68608
-Batley Carlinghow  (up stream) is Low at -0.68797
+Cuddington is Low at -0.68473
+Weetwood Bridge is Low at -0.68482
+Lower Darwen is Low at -0.68756
+Batley Carlinghow  (up stream) is Low at -0.6889
 St Blazey is Low at -0.68924
-Midhurst is Low at -0.69103
-Eastgate is Low at -0.69131
-Knypersley is Low at -0.69142
-Catterick Village is Low at -0.69188
-New York is Low at -0.69304
-Eardisland is Low at -0.69377
-Ponteland is Low at -0.69402
-Briggswath is Low at -0.69419
-Northallerton is Low at -0.69499
-Wye is Low at -0.69538
-Wigton is Low at -0.69567
-Simonsbath is Low at -0.6966
-Pilling Lane is Low at -0.69737
-Clay Coton is Low at -0.69936
-Butterburn is Low at -0.7002
-Peterchurch is Low at -0.70136
-Bishopbridge is Low at -0.70225
-Bidford on Avon is Low at -0.70315
-Little Hadham is Low at -0.70733
-Hackbridge is Low at -0.70797
-Walden Stubbs is Low at -0.7099
-Bagshot is Low at -0.71167
-Kings Ripton is Low at -0.71237
-Steeple Aston is Low at -0.71343
-Lenton is Low at -0.71353
-Bolingey is Low at -0.714
-Accrington is Low at -0.71479
-Bosbury is Low at -0.71722
-Thornton le Dale is Low at -0.71775
-Aldington is Low at -0.71849
-Watton At Stone is Low at -0.71854
-Cottingley is Low at -0.71861
-Buxton is Low at -0.71963
-Sampford Brett is Low at -0.72112
-Blackburn is Low at -0.7226
-Lamesley is Low at -0.72459
-Burford is Low at -0.72491
-Rotherham is Low at -0.72802
-Halesowen Manor Way is Low at -0.72906
-Gowdall is Low at -0.73136
-Stanmore is Low at -0.73402
-Wilmington is Low at -0.73501
-Havant is Low at -0.73527
-Farnham is Low at -0.73543
-Littlethorpe is Low at -0.73714
-Fairmile is Low at -0.73734
-Brigstock is Low at -0.73742
-Reedham is Low at -0.73929
-Castle Howe is Low at -0.73971
-Sturmer is Low at -0.73973
-Crowhurst is Low at -0.73982
-Langport is Low at -0.74058
-North Bovey is Low at -0.74099
-Westerham is Low at -0.74133
-North Molton is Low at -0.74196
-Lower Nazeing is Low at -0.74386
-Kenwith is Low at -0.74519
-Kidderminster is Low at -0.74753
-Brislington is Low at -0.74796
-Bovey Tracey is Low at -0.74813
-Botcherby, Carlisle is Low at -0.74824
-Bickleigh is Low at -0.74833
-Stockport is Low at -0.74837
-Denby Dale Norman Road is Low at -0.75038
-Croft-on-Tees is Low at -0.75071
-Princes Marsh is Low at -0.7531
-Barmby Barrage Upstream is Low at -0.7537
-Calgarth (Trout beck Bridge) is Low at -0.75919
-Northampton is Low at -0.76057
-Kirby Sigston is Low at -0.76625
-Pinxton is Low at -0.76646
-Long Wittenham is Low at -0.76674
-Nantwich is Low at -0.76819
-Southwell is Low at -0.76866
-Water Orton is Low at -0.7688
-Bilsborrow is Low at -0.77009
-Evenlode is Low at -0.77161
-Haversham is Low at -0.77258
-Mytchett is Low at -0.77283
-Hall Dunnerdale is Low at -0.77312
-Kildwick is Low at -0.77428
-Green Street is Low at -0.7751
-Chew Stoke is Low at -0.77538
-Eversley is Low at -0.77633
-Rothley is Low at -0.77692
-Milton Keynes is Low at -0.77791
-Wath upon Dearne is Low at -0.77928
-Halesowen Dogkennel Lane is Low at -0.77961
-Lewes is Low at -0.77967
-Congresbury is Low at -0.78061
-Tallington is Low at -0.78295
-South Luffenham is Low at -0.78337
-Whittlesey is Low at -0.78435
-Sandiacre is Low at -0.78587
-Bridge Trafford is Low at -0.78714
-Forde Abbey is Low at -0.78741
-Golders Green is Low at -0.78785
-Great Harrowden is Low at -0.78916
-Canonbie is Low at -0.7913
-Huddersfield Willow Lane is Low at -0.79225
-Rolleston On Dove is Low at -0.7942
-Torksey is Low at -0.79422
-New Malden is Low at -0.7954
-Purton Stoke is Low at -0.79656
-Colyton is Low at -0.79821
-Burneside is Low at -0.79867
-Datchet is Low at -0.79885
-Seaton Mill, Barepot, Workington is Low at -0.79914
-Kirkby Stephen is Low at -0.79977
-Northwich is Low at -0.80256
-Barnes is Low at -0.80273
-Earith is Low at -0.80329
-Poynton is Low at -0.80477
-Burton-Le-Coggles is Low at -0.80477
-Chollerford is Low at -0.80561
-Bampton Grange is Low at -0.80705
-Wigan is Low at -0.80721
-Dacre is Low at -0.80825
-Castle Bytham is Low at -0.81033
-Fremington is Low at -0.81049
-Colston Bassett is Low at -0.81072
-Shinfield is Low at -0.81077
-Grove Park is Low at -0.81098
-Naunton is Low at -0.81203
-Ewell is Low at -0.81214
-Upper Beeding is Low at -0.81247
-Wadhurst is Low at -0.81247
-Stanstead is Low at -0.81299
-Smallbridge is Low at -0.81354
-Nottingham is Low at -0.81439
-Abridge is Low at -0.81517
-Winterbourne Monkton is Low at -0.81751
-Crookham Village is Low at -0.81753
-Chetnole is Low at -0.81758
-Shipton-On-Cherwell is Low at -0.82078
-Ruislip is Low at -0.82152
-Beaulieu is Low at -0.82173
-Stainfield is Low at -0.82294
-Virginia Water is Low at -0.82359
-Rivenhall End is Low at -0.82384
-Clyst Honiton is Low at -0.82603
-Berkeley is Low at -0.82644
-Buttercrambe is Low at -0.82746
-Exford is Low at -0.8275
-Uxbridge is Low at -0.82789
-Uplyme is Low at -0.8287
-Taunton Market is Low at -0.82921
-Pillaton is Low at -0.82942
-Chandler's Ford is Low at -0.83045
-Wennington is Low at -0.83086
-Dauntsey is Low at -0.83098
-Axminster is Low at -0.83111
-Enfield Wash is Low at -0.83113
-Thame is Low at -0.83156
-Banbury is Low at -0.8322
-Totton is Low at -0.83228
-Latton is Low at -0.83374
-Barnsley is Low at -0.83545
-Barton-Upon-Humber is Low at -0.8357
-Gosforth is Low at -0.83609
-Nuneaton is Low at -0.83709
-Kirkby On Bain is Low at -0.839
-Steeple Bumpstead is Low at -0.8391
-Riding Mill is Low at -0.83966
-Great Musgrave is Low at -0.83977
-Addingham is Low at -0.84135
-Selly Park is Low at -0.8422
-Whetstone is Low at -0.84251
-Trowbridge Southwick is Low at -0.84437
-Thrupp is Low at -0.84503
-Hendon is Low at -0.84654
-Houghton Le Spring is Low at -0.84657
-Sutton in Craven is Low at -0.84746
-Mithian is Low at -0.84753
-Maesbrook is Low at -0.85163
-Hawthorpe is Low at -0.85567
-Kirkburton is Low at -0.85819
-Hail Weston is Low at -0.86015
-Brough West Clough is Low at -0.8607
-Buckfastleigh is Low at -0.86091
-Darton is Low at -0.86243
-Harlow is Low at -0.86423
-Southampton is Low at -0.86438
-Flint Mill, Cheddleton is Low at -0.86577
-Skinningrove is Low at -0.8661
-Hopwas is Low at -0.8682
-Eden Park is Low at -0.86825
-Sandown is Low at -0.86847
-Went Bridge is Low at -0.86896
-Whitford is Low at -0.87052
-Pilton is Low at -0.87082
-Leagrave is Low at -0.87193
-Charles is Low at -0.87312
-Cranford is Low at -0.87327
-Colne is Low at -0.87776
-Glusburn is Low at -0.8779
-Bishop's Stortford is Low at -0.8782
-Sicklesmere is Low at -0.87858
-Common Moor is Low at -0.88007
-Wineham is Low at -0.88022
-Quedgeley is Low at -0.88033
-Otley is Low at -0.88036
-Blyth is Low at -0.88118
-Chingford is Low at -0.883
-Thornhill is Low at -0.88397
-Ormskirk is Low at -0.88548
-Colne Engaine is Low at -0.88643
-Chittlehamholt is Low at -0.88652
-Acton Bridge is Low at -0.88716
-Great Mitton is Low at -0.88729
-Donyatt is Low at -0.88796
-Barnard Castle is Low at -0.88824
-Hither Green is Low at -0.88886
-Rothersthorpe is Low at -0.88986
-Evesham is Low at -0.89082
-Bury is Low at -0.89109
-Keynsham is Low at -0.89207
-Ardingly is Low at -0.8938
-Felsted is Low at -0.8941
-Carleton is Low at -0.89425
-Whitstone is Low at -0.89731
-Brandy Wharf is Low at -0.89738
-Padiham is Low at -0.89743
-Yarkhill is Low at -0.89831
-Uckfield is Low at -0.90144
-Hales Place is Low at -0.90415
-Stackhouse is Low at -0.90516
-Coxbank is Low at -0.90646
-Lanchester is Low at -0.90699
-Blandford St Mary is Low at -0.90808
-Hinksey Lake, Oxford is Low at -0.9096
-Middleton-In-Teesdale is Low at -0.90962
-Cove is Low at -0.91143
-Hazeley is Low at -0.91143
-Wasing is Low at -0.91329
-Brushford is Low at -0.91342
-islip is Low at -0.91491
-Oulton Broad is Low at -0.91548
-Feckenham is Low at -0.91712
-Bickley is Low at -0.91751
-Darfield is Low at -0.91779
-Ennerdale Bridge is Low at -0.91826
-Shillmoor is Low at -0.91827
-Grazeley is Low at -0.92175
-Pontefract is Low at -0.92186
-Wearhead is Low at -0.92263
-Cranleigh is Low at -0.92321
-Newton-On-Rawcliffe is Low at -0.92476
-Hinton is Low at -0.92541
-Upminster is Low at -0.92543
-Waltham Abbey is Low at -0.92719
-Othery is Low at -0.92771
-Greenham is Low at -0.9283
-Bishopstoke is Low at -0.93106
-Luxulyan is Low at -0.93168
-Furneux Pelham is Low at -0.93276
-Hambrook is Low at -0.93571
-Billingborough is Low at -0.93612
-Cockfosters is Low at -0.93642
-Darwen is Low at -0.93743
-Sefton is Low at -0.93763
-Eamont Bridge, Beehive, River Lowther is Low at -0.94039
-Truro is Low at -0.94113
-York is Low at -0.94161
-Lostwithiel is Low at -0.94401
-Sinnington is Low at -0.94602
-Hollingworth is Low at -0.94607
-Chesterfield is Low at -0.94632
-Chichester is Low at -0.94665
-Newton Abbot is Low at -0.9493
-Grampound Road is Low at -0.94997
-Warfield is Low at -0.95118
-Hannington Wick is Low at -0.95382
-Brabling Green is Low at -0.95859
-Groombridge is Low at -0.96184
-Atherfield is Low at -0.96192
-Burstwick is Low at -0.96553
-Hebden Bridge is Low at -0.96624
-Marston Meysey is Low at -0.96641
-Marsden is Low at -0.96695
-Edenfield is Low at -0.96854
-Braughing is Low at -0.96873
-Castleford is Low at -0.97076
-Churchend is Low at -0.97094
-Titson is Low at -0.97121
-Wooler is Low at -0.97151
-Thuxton is Low at -0.97253
-Ripon is Low at -0.97464
-North Harrow is Low at -0.97605
-Bransholme Great Culvert Pumping Station is Low at -0.97625
-Miller Bridge is Low at -0.97756
-Colaton Raleigh is Low at -0.97923
-Lowick is Low at -0.98114
-Trebartha is Low at -0.98223
-Townhead, Penrith is Low at -0.98328
-Charterville Allotments is Low at -0.98461
-Sebergham is Low at -0.98552
-Drewsteignton is Low at -0.98745
-South Molton is Low at -0.98836
-Jacobstowe is Low at -0.98837
-Dodford is Low at -0.98881
-Derby is Low at -0.989
-Stadhampton is Low at -0.99124
-Stisted is Low at -0.99182
-Pixton is Low at -0.99189
-Stoodleigh is Low at -0.99286
-Wanborough is Low at -0.99334
-Winsham is Low at -0.99941
-Tywardreath Highway is Low at -1.00124
-Mayford is Low at -1.00153
-Braystones is Low at -1.00212
-Ousden is Low at -1.00374
-Cummersdale is Low at -1.00634
-Cossington is Low at -1.00786
-Clavering is Low at -1.01062
-Whitwick is Low at -1.01252
-Hamerton is Low at -1.01294
-Mirfield is Low at -1.01305
-Elvington is Low at -1.01422
-Tadcaster is Low at -1.01487
-Warkworth is Low at -1.01544
-Gisburn is Low at -1.0157
-Radlett is Low at -1.01722
-Kingsthorpe is Low at -1.01736
-Brendon is Low at -1.01842
-Wansford is Low at -1.02305
-Northenden is Low at -1.02375
-Werrington Park is Low at -1.02633
+Midhurst is Low at -0.68936
+Wye is Low at -0.68982
+Eastgate is Low at -0.69062
+Catterick Village is Low at -0.69199
+New York is Low at -0.69233
+Eardisland is Low at -0.69298
+Knypersley is Low at -0.69341
+Simonsbath is Low at -0.69363
+Clay Coton is Low at -0.6945
+Northallerton is Low at -0.69568
+Briggswath is Low at -0.69569
+Ponteland is Low at -0.69628
+Butterburn is Low at -0.69927
+Peterchurch is Low at -0.70067
+Bishopbridge is Low at -0.70082
+Wigton is Low at -0.70147
+Pilling Lane is Low at -0.7018
+Bidford on Avon is Low at -0.70312
+Little Hadham is Low at -0.70715
+Hackbridge is Low at -0.70745
+Walden Stubbs is Low at -0.70899
+Bagshot is Low at -0.71034
+Kings Ripton is Low at -0.71246
+Bolingey is Low at -0.71301
+Gowdall is Low at -0.7157
+Thornton le Dale is Low at -0.71609
+Steeple Aston is Low at -0.71655
+Watton At Stone is Low at -0.71661
+Bosbury is Low at -0.71804
+Aldington is Low at -0.71833
+Lenton is Low at -0.71861
+Buxton is Low at -0.7202
+Sampford Brett is Low at -0.72045
+Accrington is Low at -0.72173
+Lamesley is Low at -0.72492
+Halesowen Manor Way is Low at -0.72716
+Littlethorpe is Low at -0.72763
+Rotherham is Low at -0.7287
+Burford is Low at -0.7289
+Cottingley is Low at -0.73106
+Blackburn is Low at -0.732
+Stanmore is Low at -0.734
+Wilmington is Low at -0.73416
+Havant is Low at -0.73425
+Farnham is Low at -0.73522
+Brigstock is Low at -0.73611
+Langport is Low at -0.73615
+Crowhurst is Low at -0.73642
+Sturmer is Low at -0.73736
+Castle Howe is Low at -0.73841
+Fairmile is Low at -0.73924
+Brislington is Low at -0.73963
+Bickleigh is Low at -0.73966
+North Bovey is Low at -0.74009
+Westerham is Low at -0.74103
+North Molton is Low at -0.74111
+Lower Nazeing is Low at -0.74239
+Stockport is Low at -0.74372
+Kenwith is Low at -0.74421
+Reedham is Low at -0.74612
+Bovey Tracey is Low at -0.74732
+Botcherby, Carlisle is Low at -0.74733
+Rowsham is Low at -0.74794
+Princes Marsh is Low at -0.75154
+Denby Dale Norman Road is Low at -0.75161
+Croft-on-Tees is Low at -0.75166
+Kidderminster is Low at -0.75702
+Calgarth (Trout beck Bridge) is Low at -0.75756
+Stratton St Margaret is Low at -0.76322
+Long Wittenham is Low at -0.76661
+Bilsborrow is Low at -0.76688
+Nantwich is Low at -0.76708
+Pinxton is Low at -0.76763
+Southwell is Low at -0.76782
+Mytchett is Low at -0.76832
+Kirby Sigston is Low at -0.76989
+Hall Dunnerdale is Low at -0.77073
+Haversham is Low at -0.77139
+Evenlode is Low at -0.77237
+Northampton is Low at -0.77241
+Rothley is Low at -0.77288
+Chew Stoke is Low at -0.7745
+Eversley is Low at -0.77668
+Milton Keynes is Low at -0.77688
+Wath upon Dearne is Low at -0.77897
+Tallington is Low at -0.77903
+Halesowen Dogkennel Lane is Low at -0.77906
+Lewes is Low at -0.7796
+Harlow is Low at -0.77969
+Whittlesey is Low at -0.78212
+Green Street is Low at -0.78231
+Canonbie is Low at -0.78246
+South Luffenham is Low at -0.78271
+Sandiacre is Low at -0.7833
+Forde Abbey is Low at -0.7844
+Congresbury is Low at -0.78573
+Water Orton is Low at -0.78614
+Great Harrowden is Low at -0.78798
+Golders Green is Low at -0.78974
+Kildwick is Low at -0.79017
+Purton Stoke is Low at -0.79021
+Datchet is Low at -0.79078
+Huddersfield Willow Lane is Low at -0.79188
+Rolleston On Dove is Low at -0.79244
+Colyton is Low at -0.7959
+Bampton Grange is Low at -0.7963
+Barnes is Low at -0.79718
+Burneside is Low at -0.79752
+Abridge is Low at -0.79774
+Harold Wood is Low at -0.79819
+Seaton Mill, Barepot, Workington is Low at -0.79831
+Bridge Trafford is Low at -0.79984
+Wigan is Low at -0.80138
+Northwich is Low at -0.80147
+Earith is Low at -0.80302
+Poynton is Low at -0.80377
+Burton-Le-Coggles is Low at -0.80415
+Shinfield is Low at -0.80552
+Chollerford is Low at -0.80624
+Dacre is Low at -0.80711
+Kirkby Stephen is Low at -0.80721
+Smallbridge is Low at -0.80747
+Colston Bassett is Low at -0.80763
+Castle Bytham is Low at -0.81001
+Grove Park is Low at -0.81002
+Fremington is Low at -0.81183
+Ewell is Low at -0.8119
+Wadhurst is Low at -0.81195
+Stanstead is Low at -0.81256
+Beaulieu is Low at -0.81476
+Crookham Village is Low at -0.81692
+Winterbourne Monkton is Low at -0.81738
+Chetnole is Low at -0.81865
+Shipton-On-Cherwell is Low at -0.82081
+Virginia Water is Low at -0.82083
+Naunton is Low at -0.82186
+Stainfield is Low at -0.82256
+Nottingham is Low at -0.82281
+Enfield Wash is Low at -0.82293
+Rivenhall End is Low at -0.82389
+Clyst Honiton is Low at -0.824
+Ruislip is Low at -0.82522
+Wennington is Low at -0.82604
+Pillaton is Low at -0.82606
+Exford is Low at -0.82609
+Uxbridge is Low at -0.8264
+Buttercrambe is Low at -0.82647
+Uplyme is Low at -0.82745
+Axminster is Low at -0.8275
+Banbury is Low at -0.8286
+Taunton Market is Low at -0.82908
+Thame is Low at -0.82943
+Dauntsey is Low at -0.8301
+Berkeley is Low at -0.83093
+Latton is Low at -0.83257
+Chandler's Ford is Low at -0.83271
+Barnsley is Low at -0.83377
+Great Musgrave is Low at -0.83666
+Kirkby On Bain is Low at -0.83728
+Riding Mill is Low at -0.83804
+Steeple Bumpstead is Low at -0.83806
+Barton-Upon-Humber is Low at -0.83854
+Gosforth is Low at -0.83889
+Nuneaton is Low at -0.84135
+Addingham is Low at -0.84152
+Whetstone is Low at -0.84168
+Thrupp is Low at -0.84263
+Trowbridge Southwick is Low at -0.84507
+Mithian is Low at -0.84717
+Selly Park is Low at -0.84738
+Houghton Le Spring is Low at -0.84877
+Hendon is Low at -0.85009
+Eden Park is Low at -0.85064
+Sutton in Craven is Low at -0.85155
+Maesbrook is Low at -0.85161
+Torksey is Low at -0.85297
+Hawthorpe is Low at -0.85522
+Buckfastleigh is Low at -0.85677
+Kirkburton is Low at -0.85787
+Hail Weston is Low at -0.85843
+Hither Green is Low at -0.86137
+Sandown is Low at -0.86294
+Southampton is Low at -0.86356
+Darton is Low at -0.86369
+Cranford is Low at -0.86438
+Went Bridge is Low at -0.86555
+Whitford is Low at -0.86586
+Skinningrove is Low at -0.86589
+Pilton is Low at -0.8693
+Flint Mill, Cheddleton is Low at -0.87179
+Charles is Low at -0.87191
+Leagrave is Low at -0.87192
+Glusburn is Low at -0.87438
+Wineham is Low at -0.87539
+Common Moor is Low at -0.87714
+Sicklesmere is Low at -0.87781
+Bishop's Stortford is Low at -0.87823
+Hopwas is Low at -0.88051
+Great Mitton is Low at -0.881
+Blyth is Low at -0.88114
+Acton Bridge is Low at -0.88165
+Chingford is Low at -0.88187
+Evesham is Low at -0.88296
+Quedgeley is Low at -0.88299
+Chittlehamholt is Low at -0.88373
+Otley is Low at -0.88405
+Bransholme Great Culvert Pumping Station is Low at -0.88602
+Brough West Clough is Low at -0.88619
+Colne Engaine is Low at -0.88632
+Rothersthorpe is Low at -0.88913
+Keynsham is Low at -0.88984
+Thornhill is Low at -0.89039
+Donyatt is Low at -0.89052
+Ormskirk is Low at -0.89085
+Colne is Low at -0.89285
+Carleton is Low at -0.89335
+Ardingly is Low at -0.89378
+Felsted is Low at -0.89395
+Whitstone is Low at -0.89404
+Barnard Castle is Low at -0.89413
+Padiham is Low at -0.8965
+Yarkhill is Low at -0.8971
+York is Low at -0.89723
+Brandy Wharf is Low at -0.89757
+Hazeley is Low at -0.89801
+Hales Place is Low at -0.89834
+Wasing is Low at -0.89894
+Coxbank is Low at -0.89929
+islip is Low at -0.90091
+Stackhouse is Low at -0.90139
+Bury is Low at -0.90141
+Blandford St Mary is Low at -0.90624
+Grazeley is Low at -0.90698
+Lanchester is Low at -0.907
+Totton is Low at -0.909
+Walthamstow is Low at -0.90914
+Hinksey Lake, Oxford is Low at -0.90929
+Cove is Low at -0.90994
+Brushford is Low at -0.91205
+Oulton Broad is Low at -0.91296
+Upminster is Low at -0.91365
+Ennerdale Bridge is Low at -0.9156
+Darfield is Low at -0.91659
+Uckfield is Low at -0.91669
+Bickley is Low at -0.91714
+Shillmoor is Low at -0.91821
+Middleton-In-Teesdale is Low at -0.92153
+Pontefract is Low at -0.92247
+Cranleigh is Low at -0.92252
+Newton-On-Rawcliffe is Low at -0.92303
+Feckenham is Low at -0.92327
+Hinton is Low at -0.92451
+Wearhead is Low at -0.92482
+Waltham Abbey is Low at -0.92635
+Othery is Low at -0.92764
+Kingsnorth is Low at -0.92902
+Greenham is Low at -0.92962
+Luxulyan is Low at -0.93011
+Bishopstoke is Low at -0.93157
+Furneux Pelham is Low at -0.9327
+Billingborough is Low at -0.93499
+Darwen is Low at -0.93576
+Hambrook is Low at -0.9361
+Cockfosters is Low at -0.93644
+Hebden Bridge is Low at -0.93645
+Eamont Bridge, Beehive, River Lowther is Low at -0.93658
+Chichester is Low at -0.93763
+Warfield is Low at -0.93777
+Truro is Low at -0.94019
+Lostwithiel is Low at -0.94169
+Charterville Allotments is Low at -0.94283
+Sinnington is Low at -0.9439
+Grampound Road is Low at -0.9462
+Newton Abbot is Low at -0.94793
+Mayford is Low at -0.94938
+Chesterfield is Low at -0.9515
+Hannington Wick is Low at -0.9522
+Tadcaster is Low at -0.95815
+Braughing is Low at -0.95825
+Brabling Green is Low at -0.95901
+Atherfield is Low at -0.95966
+Groombridge is Low at -0.96063
+Marston Meysey is Low at -0.96534
+Titson is Low at -0.96914
+Warkworth is Low at -0.96938
+Churchend is Low at -0.97067
+Castleford is Low at -0.97126
+Wooler is Low at -0.97141
+Thuxton is Low at -0.97283
+North Harrow is Low at -0.97477
+Ripon is Low at -0.97499
+Edenfield is Low at -0.97531
+Burstwick is Low at -0.97546
+Marsden is Low at -0.9764
+Hollingworth is Low at -0.97717
+Colaton Raleigh is Low at -0.97767
+Trebartha is Low at -0.97838
+Lowick is Low at -0.98021
+Miller Bridge is Low at -0.98319
+Townhead, Penrith is Low at -0.98319
+Sebergham is Low at -0.98328
+Stadhampton is Low at -0.98439
+Drewsteignton is Low at -0.98447
+York Foss Barrier is Low at -0.98503
+Derby is Low at -0.98717
+Cossington is Low at -0.98775
+South Molton is Low at -0.98777
+Jacobstowe is Low at -0.9878
+Dodford is Low at -0.98802
+Wansford is Low at -0.98939
+Sefton is Low at -0.98984
+Pixton is Low at -0.99109
+Stisted is Low at -0.99131
+Stoodleigh is Low at -0.99287
+Wanborough is Low at -0.99318
+Tywardreath Highway is Low at -0.99559
+Winsham is Low at -0.99728
+Clavering is Low at -1.00008
+Ousden is Low at -1.00338
+Braystones is Low at -1.00445
+Cummersdale is Low at -1.00477
+Elvington is Low at -1.01151
+Hamerton is Low at -1.01179
+Whitwick is Low at -1.01343
+Lower Arncott is Low at -1.0145
+Kingsthorpe is Low at -1.01664
+Radlett is Low at -1.01763
+Brendon is Low at -1.01781
+Mirfield is Low at -1.0182
+Hexworthy is Low at -1.01911
+Werrington Park is Low at -1.02333
 Pentlow is Low at -1.02724
-High Green is Low at -1.02769
-Hexworthy is Low at -1.02873
-York Foss Barrier is Low at -1.02892
-Highcliffe is Low at -1.03274
-Kingsnorth is Low at -1.03347
-Egginton is Low at -1.03359
-Wanstead is Low at -1.03452
-Charvil is Low at -1.03532
-Cropredy is Low at -1.03627
-Harold Wood is Low at -1.03814
-Haydon Wick is Low at -1.04042
-Compstall is Low at -1.04104
-Old Woking is Low at -1.04128
-Allerby is Low at -1.04334
-Keswick is Low at -1.04416
-Sedgwick is Low at -1.0458
-Beacon End is Low at -1.04647
-Ryde is Low at -1.04689
-Worsbrough is Low at -1.04699
-Eamont Bridge is Low at -1.04762
-Long Ditton is Low at -1.04777
-Lower Arncott is Low at -1.05289
-Yiewsley is Low at -1.05398
+Catcliffe is Low at -1.02812
+Charvil is Low at -1.02926
+Gisburn is Low at -1.03039
+Wanstead is Low at -1.03086
+Highcliffe is Low at -1.0321
+Cropredy is Low at -1.03414
+Northenden is Low at -1.0364
+High Green is Low at -1.03718
+Compstall is Low at -1.03758
+Long Ditton is Low at -1.03866
+Keswick is Low at -1.0407
+Old Woking is Low at -1.04179
+Egginton is Low at -1.04234
+Allerby is Low at -1.04322
+Beacon End is Low at -1.04612
+Hatton is Low at -1.05042
+Ryde is Low at -1.05128
+Haydon Wick is Low at -1.05167
+Worsbrough is Low at -1.05329
+Horbury is Low at -1.05353
+Eamont Bridge is Low at -1.05422
+Walkern is Low at -1.05423
+Kingford is Low at -1.0546
+Woodlesford is Low at -1.05586
+Fairburn Sluices Washland Level is Low at -1.05592
 Moreton in Marsh is Low at -1.056
-Catcliffe is Low at -1.05749
-Barton Seagrave is Low at -1.05897
-Horbury is Low at -1.0592
-Hatton is Low at -1.06007
-Kingford is Low at -1.06023
-Woodlesford is Low at -1.06077
-Wallington is Low at -1.06136
-Buckland Monachorum is Low at -1.06265
-Blackhall Mill is Low at -1.06334
-Greatford is Low at -1.06466
-Fairburn Sluices Washland Level is Low at -1.06488
-Boldron is Low at -1.06604
-Penistone is Low at -1.06718
-Kingskerswell is Low at -1.06784
-Walkern is Low at -1.07016
-Trowbridge is Low at -1.07192
-Eskdale Green is Low at -1.08137
-Swaton is Low at -1.08169
-Dubwath is Low at -1.08202
-Ermington is Low at -1.08419
-Skipton Medical Centre is Low at -1.08465
-Ilton is Low at -1.08465
-Duston is Low at -1.08523
-Oulton Lemonroyd is Low at -1.08633
-Markyate is Low at -1.08692
-Falstone is Low at -1.08723
-Huntington is Low at -1.0879
-Nunney is Low at -1.08879
-Shipton Under Wychwood is Low at -1.08928
-Chipping Ongar is Low at -1.08989
-Sewardstone is Low at -1.09087
-Eastville is Low at -1.09129
-Folkestone is Low at -1.09152
-Dallam is Low at -1.09178
-Selby is Low at -1.09221
-Water End is Low at -1.09234
-Fenton Dam is Low at -1.09276
-Loughton is Low at -1.09484
-Glenridding is Low at -1.09581
-Buildwas is Low at -1.09654
-Loddiswell is Low at -1.09982
-Charney Bassett is Low at -1.10099
-Romanby is Low at -1.10144
-Ambleside is Low at -1.10179
-Walthamstow is Low at -1.10458
-Lamarsh is Low at -1.10512
-Kettlewell is Low at -1.10555
-Winchmore Hill is Low at -1.10887
-Bealsmill is Low at -1.10944
-Worcester Park is Low at -1.10953
-Wincanton is Low at -1.10969
+Yiewsley is Low at -1.05634
+Buckland Monachorum is Low at -1.05731
+Barton Seagrave is Low at -1.05756
+Wallington is Low at -1.05817
+Fenton Dam is Low at -1.06129
+Greatford is Low at -1.06469
+Oulton Lemonroyd is Low at -1.06477
+Sedgwick is Low at -1.06513
+Blackhall Mill is Low at -1.06582
+Kingskerswell is Low at -1.06722
+Boldron is Low at -1.06726
+Penistone is Low at -1.06895
+Trowbridge is Low at -1.0703
+Eskdale Green is Low at -1.07653
+Totteridge is Low at -1.07765
+Swaton is Low at -1.07972
+Ermington is Low at -1.07983
+Dubwath is Low at -1.08032
+Charney Bassett is Low at -1.08188
+Ilton is Low at -1.08483
+Duston is Low at -1.08488
+Huntington is Low at -1.0849
+Shipton Under Wychwood is Low at -1.08631
+Markyate is Low at -1.0869
+Loughton is Low at -1.08743
+Falstone is Low at -1.08752
+Upper Beeding is Low at -1.08946
+Skipton Medical Centre is Low at -1.08951
+Chipping Ongar is Low at -1.08985
+Sewardstone is Low at -1.09009
+Glenridding is Low at -1.09024
+Nunney is Low at -1.09079
+Water End is Low at -1.09089
+Eastville is Low at -1.0916
+Folkestone is Low at -1.0933
+Loddiswell is Low at -1.09662
+Buildwas is Low at -1.09936
+Lamarsh is Low at -1.10294
+Romanby is Low at -1.1034
+Selham is Low at -1.10531
+Ambleside is Low at -1.10587
+Bealsmill is Low at -1.10765
+Winchmore Hill is Low at -1.10771
+Ash is Low at -1.10965
 Petersfield is Low at -1.11
-Ash is Low at -1.11104
-Broadclyst is Low at -1.11282
-Selham is Low at -1.11348
-Kingston Vale is Low at -1.11461
-Sheepbridge is Low at -1.1159
-Great Bardfield is Low at -1.12069
-Stockbridge is Low at -1.12226
-North Middleton is Low at -1.12491
-Went Green is Low at -1.12538
-Rowsham is Low at -1.12565
-Bishop Auckland is Low at -1.12666
-Hornby is Low at -1.1291
-Aycliffe Village is Low at -1.13031
-Northlew is Low at -1.13246
-New Mills is Low at -1.13392
-Sankey is Low at -1.13473
-Netherside Hall is Low at -1.1351
-Hanfor Bridge, Stoke-On-Trent is Low at -1.13516
-Trawden is Low at -1.13553
-Salford is Low at -1.13556
-Tilford is Low at -1.13668
-Woodthorpe is Low at -1.13993
-Cowbridge is Low at -1.14102
-Croxley Green is Low at -1.14156
-Middleton-On-Leven is Low at -1.14212
-Morden is Low at -1.14223
-Catford is Low at -1.14315
-Callow End is Low at -1.14499
-Butts Bridge is Low at -1.14664
-Castle Hedingham is Low at -1.14971
-Mayfield is Low at -1.15046
-Debenham is Low at -1.15166
-Wheatley is Low at -1.152
-Oxspring Bower Hill is Low at -1.1524
-Haltwhistle is Low at -1.15459
-Totteridge is Low at -1.15631
-Great Elm is Low at -1.15773
-Brookvale Road is Low at -1.15955
-Emsworth is Low at -1.15983
-Nailsworth is Low at -1.16001
-Rochdale is Low at -1.16016
-Stubbins is Low at -1.16329
-Killamarsh is Low at -1.16344
-Appleby-In-Westmorland is Low at -1.16644
-Matlock Bath is Low at -1.16657
-Meldon is Low at -1.16854
-Highleadon is Low at -1.1692
-Salt end is Low at -1.16952
-Bamber Bridge is Low at -1.17144
-Mitford is Low at -1.17421
-Brackley is Low at -1.17453
-Langbar is Low at -1.17559
-Little Horsted is Low at -1.17585
-Naburn is Low at -1.1779
+Worcester Park is Low at -1.11192
+Went Green is Low at -1.11345
+Wincanton is Low at -1.11446
+Broadclyst is Low at -1.11518
+Kingston Vale is Low at -1.11523
+Sheepbridge is Low at -1.11696
+Great Bardfield is Low at -1.12051
+Kettlewell is Low at -1.12103
+Wheatley is Low at -1.1231
+North Middleton is Low at -1.12485
+Dallam is Low at -1.1256
+Hornby is Low at -1.12627
+Bishop Auckland is Low at -1.12657
+Aycliffe Village is Low at -1.12943
+Northlew is Low at -1.12987
+New Mills is Low at -1.13018
+Fordwich, Canterbury is Low at -1.13053
+Stockbridge is Low at -1.13559
+Tilford is Low at -1.13657
+Hanfor Bridge, Stoke-On-Trent is Low at -1.13864
+Croxley Green is Low at -1.14146
+Middleton-On-Leven is Low at -1.14178
+Woodthorpe is Low at -1.14182
+Cowbridge is Low at -1.14182
+Catford is Low at -1.14207
+Callow End is Low at -1.14265
+Morden is Low at -1.14685
+Castle Hedingham is Low at -1.14924
+Trawden is Low at -1.15073
+Butts Bridge is Low at -1.15113
+Debenham is Low at -1.15147
+Highleadon is Low at -1.15164
+Naburn is Low at -1.15226
+Salford is Low at -1.15294
+Oxspring Bower Hill is Low at -1.1538
+Haltwhistle is Low at -1.15538
+Rochdale is Low at -1.15572
+Netherside Hall is Low at -1.15751
+Mayfield is Low at -1.158
+Great Elm is Low at -1.15801
+Emsworth is Low at -1.1583
+Appleby-In-Westmorland is Low at -1.15967
+Nailsworth is Low at -1.16053
+Killamarsh is Low at -1.16193
+Matlock Bath is Low at -1.16387
+Meldon is Low at -1.16802
+Ashurst Bridge is Low at -1.17129
+Little Horsted is Low at -1.1733
+Stubbins is Low at -1.17383
+Brackley is Low at -1.17428
+Salt end is Low at -1.1743
+Langbar is Low at -1.17574
+Mitford is Low at -1.1758
+Brookvale Road is Low at -1.17764
 Dolton is Low at -1.178
-Ashurst Bridge is Low at -1.18307
-Beverley Waterside Pumping Station is Low at -1.18809
-Aldingbourne is Low at -1.1885
-Ensbury is Low at -1.18852
-Fordwich, Canterbury is Low at -1.18966
-Bures is Low at -1.19582
-High Ongar is Low at -1.20346
-Woolsington is Low at -1.20449
-Whitwood is Low at -1.20674
-Delph is Low at -1.20778
-Catcliffe Drain is Low at -1.21333
-Salwarpe is Low at -1.2145
-Watchfield is Low at -1.21675
-Weedon Bec is Low at -1.23008
-Hatherleigh is Low at -1.23185
-Cornwood is Low at -1.23341
-Netherbury is Low at -1.23451
-Brixworth is Low at -1.24005
-Harraby Green Carlisle is Low at -1.24132
-Hadlow is Low at -1.24144
-South Mimms is Low at -1.24932
-Skeffling Pumping Station is Low at -1.25218
-Yarm is Low at -1.25262
-Nunnykirk is Low at -1.25415
-Bradbury is Low at -1.25434
-Rawtenstall is Low at -1.26708
-Leasows Farm is Low at -1.26771
-Peterborough is Low at -1.26815
-Kielder is Low at -1.27142
-Gargrave is Low at -1.27204
-Great Easton is Low at -1.27256
-Ashclyst is Low at -1.27495
-Patrington Haven Outstrays is Low at -1.27537
-Churchgate Street is Low at -1.27624
-South Norwood is Low at -1.2783
-Greenholme is Low at -1.28394
+Aldingbourne is Low at -1.18418
+Bamber Bridge is Low at -1.18495
+Ensbury is Low at -1.18718
+Bures is Low at -1.19504
+Woolsington is Low at -1.20475
+High Ongar is Low at -1.20506
+Whitwood is Low at -1.20955
+Catcliffe Drain is Low at -1.21077
+Delph is Low at -1.21253
+Watchfield is Low at -1.21534
+Hadlow is Low at -1.2241
+Hatherleigh is Low at -1.22763
+Yarm is Low at -1.23048
+Weedon Bec is Low at -1.23138
+Netherbury is Low at -1.23219
+Salwarpe is Low at -1.2381
+Sankey is Low at -1.23817
+Harraby Green Carlisle is Low at -1.23882
+Brixworth is Low at -1.23891
+South Mimms is Low at -1.24441
+Nunnykirk is Low at -1.25113
+Bradbury is Low at -1.25294
+Churchgate Street is Low at -1.25371
+Patrington Haven Outstrays is Low at -1.25583
+Skeffling Pumping Station is Low at -1.25956
+Peterborough is Low at -1.26049
+South Norwood is Low at -1.264
+Cornwood is Low at -1.26967
+Kielder is Low at -1.26994
+Ashclyst is Low at -1.27195
+Great Easton is Low at -1.27243
+Leasows Farm is Low at -1.27246
+Rawtenstall is Low at -1.27598
+Gargrave is Low at -1.27973
+Greenholme is Low at -1.28252
 Clint Green is Low at -1.284
 Sunderland Bridge is Low at -1.28723
-Lindfield is Low at -1.28754
-Alwinton is Low at -1.28823
-Thirsk is Low at -1.29332
-Guildford is Low at -1.29405
-Threlkeld is Low at -1.29682
-Melbourne Park Carlisle is Low at -1.29783
-Rothbury is Low at -1.29806
-Alston is Low at -1.29875
-Low Bentham is Low at -1.30037
-Robertsbridge is Low at -1.30098
-Huntingfield is Low at -1.3092
-Cheshunt is Low at -1.31189
-Mowthorpe Weir Head is Low at -1.31204
-Doddington Bridge is Low at -1.31215
-Davenham is Low at -1.31285
-Selby Dam PS is Low at -1.31564
-Pilling is Low at -1.31584
-Thorverton is Low at -1.3201
-Morpeth is Low at -1.32686
-Brigg is Low at -1.32769
-Newick is Low at -1.33089
-Red Rock is Low at -1.33868
-Chipping Sodbury is Low at -1.33953
-Wainfleet St Mary is Low at -1.33971
-Bolton Upon Dearne is Low at -1.351
-West Bridgford is Low at -1.35489
-Redhill is Low at -1.35509
-Giggleswick is Low at -1.35688
-Sands Centre, Carlisle is Low at -1.35801
-Twyford is Low at -1.35834
-Sladesbridge is Low at -1.36273
-Lymington is Low at -1.36377
-Grinton is Low at -1.36525
-Woodhouse Mill Regulator is Low at -1.36525
-South Hinksey is Low at -1.36579
-Edenhall is Low at -1.37294
-Edgware is Low at -1.37544
-Newton is Low at -1.38568
-Sticklepath is Low at -1.38682
-Broadeye Bridge, Stafford is Low at -1.39268
-Rowfoot is Low at -1.39458
-Ripley is Low at -1.39493
-Bathpool is Low at -1.39612
-Collingham is Low at -1.39898
-Dorking is Low at -1.40101
-Darlington is Low at -1.40185
-East Ness is Low at -1.4046
-Willesden is Low at -1.4047
-Wickford is Low at -1.41043
-Market Weighton is Low at -1.41222
-Leatherhead is Low at -1.41294
+Lindfield is Low at -1.28726
+Alwinton is Low at -1.28763
+Guildford is Low at -1.28933
+Thirsk is Low at -1.29012
+Low Bentham is Low at -1.29099
+Alston is Low at -1.29246
+Rothbury is Low at -1.29784
+Melbourne Park Carlisle is Low at -1.29785
+Barmby Barrage Upstream is Low at -1.2997
+Robertsbridge is Low at -1.3007
+Threlkeld is Low at -1.30092
+Wainfleet St Mary is Low at -1.30447
+Huntingfield is Low at -1.30887
+Davenham is Low at -1.3089
+Cheshunt is Low at -1.30962
+Selby Dam PS is Low at -1.30966
+Lymington is Low at -1.3101
+Mowthorpe Weir Head is Low at -1.31102
+Doddington Bridge is Low at -1.31106
+Pilling is Low at -1.31204
+West Bridgford is Low at -1.31247
+Beverley Waterside Pumping Station is Low at -1.31351
+Thorverton is Low at -1.31802
+Morpeth is Low at -1.32715
+Brigg is Low at -1.32753
+Newick is Low at -1.3283
+Red Rock is Low at -1.33638
+Selby is Low at -1.33911
+Chipping Sodbury is Low at -1.34357
+Woodhouse Mill Regulator is Low at -1.34663
+Giggleswick is Low at -1.34884
+Sands Centre, Carlisle is Low at -1.34905
+Bolton Upon Dearne is Low at -1.35009
+South Hinksey is Low at -1.35066
+Redhill is Low at -1.35429
+Grinton is Low at -1.35467
+Twyford is Low at -1.36092
+Sladesbridge is Low at -1.36246
+Edenhall is Low at -1.36905
+Edgware is Low at -1.37444
+Newton is Low at -1.38432
+Sticklepath is Low at -1.38525
+Broadeye Bridge, Stafford is Low at -1.39086
+Collingham is Low at -1.39181
+Bathpool is Low at -1.39862
+Dorking is Low at -1.399
+Ripley is Low at -1.39997
+North Cheam is Low at -1.40016
+Darlington is Low at -1.4009
+Rowfoot is Low at -1.40096
+East Ness is Low at -1.40388
+Winestead Booster Pumping Station is Low at -1.40396
+Leatherhead is Low at -1.40403
+Wickford is Low at -1.40982
 Yeoford is Low at -1.413
-Hoylake is Low at -1.41531
-Ilkley is Low at -1.41625
-Kirk Bramwith is Low at -1.41765
-North Cheam is Low at -1.41991
+Willesden is Low at -1.4144
+Market Weighton is Low at -1.41547
+Hoylake is Low at -1.41689
+Ilkley is Low at -1.4187
+Upton Hellions is Low at -1.41933
 Lodsworth is Low at -1.42135
-Upton Hellions is Low at -1.42252
-Bardsey is Low at -1.42444
-Low Coniscliffe is Low at -1.42952
-Batheaston is Low at -1.43131
-Twickenham is Low at -1.4342
-Thorngumbald Pumping Station is Low at -1.43495
-Froghall is Low at -1.43807
-Tonbridge is Low at -1.44063
-Mary Tavy is Low at -1.44314
-Horley is Low at -1.44954
-Bredbury is Low at -1.45067
-Thorpe Le Fallows is Low at -1.45204
-Winestead Booster Pumping Station is Low at -1.45442
-Flamstead End is Low at -1.45593
-Bewdley is Low at -1.46035
-Hillingdon is Low at -1.46082
-Ifield is Low at -1.46118
-Milnrow is Low at -1.46175
-Wetherby is Low at -1.46202
-Burstow is Low at -1.46314
-Pawston is Low at -1.46459
-Gosport is Low at -1.46462
-Chineham is Low at -1.46822
-Scotter is Low at -1.47172
-Barnham is Low at -1.47506
-Toynton Fen Side is Low at -1.47582
-Alder Forest is Low at -1.47821
-Elvington Pumping Station upstream is Low at -1.48475
-Lapford is Low at -1.49275
-Fenay Bridge is Low at -1.49369
-Navestock Heath is Low at -1.49873
+Bardsey is Low at -1.42649
+Batheaston is Low at -1.42721
+Low Coniscliffe is Low at -1.43194
+Twickenham is Low at -1.43337
+Mary Tavy is Low at -1.43852
+Tonbridge is Low at -1.44064
+Thorpe Le Fallows is Low at -1.44681
+Bredbury is Low at -1.44786
+Horley is Low at -1.44824
+Froghall is Low at -1.44902
+Thorngumbald Pumping Station is Low at -1.44977
+Flamstead End is Low at -1.45537
+Hillingdon is Low at -1.4556
+Bewdley is Low at -1.45656
+Milnrow is Low at -1.45972
+Burstow is Low at -1.45978
+Ifield is Low at -1.46062
+Gosport is Low at -1.46419
+Pawston is Low at -1.46442
+Chineham is Low at -1.46808
+Wetherby is Low at -1.46969
+Maunby is Low at -1.47025
+Scotter is Low at -1.4705
+Barnham is Low at -1.47245
+Alder Forest is Low at -1.47634
+Kirk Bramwith is Low at -1.48111
+Toynton Fen Side is Low at -1.48174
+Lapford is Low at -1.49013
+Ower is Low at -1.49021
+Horsmonden is Low at -1.49201
+Navestock Heath is Low at -1.49215
+Fenay Bridge is Low at -1.49294
 Manaccan is Low at -1.49901
-Allendale Town is Low at -1.49902
-Horsmonden is Low at -1.50165
-Bassingham is Low at -1.50459
-Lealholm is Low at -1.51538
-Ower is Low at -1.51663
-Maunby is Low at -1.52092
-Kislingbury is Low at -1.52267
-Finchley is Low at -1.5241
-Middleton is Low at -1.52458
-Podmore is Low at -1.52681
-Great Torrington is Low at -1.52964
-Calder Drive, Kendal is Low at -1.53112
-Stoke D'abernon is Low at -1.53233
-Brierfield is Low at -1.55162
-Alconbury Weston is Low at -1.552
-Old Malton is Low at -1.55232
-Stickford is Low at -1.56226
-Linstock is Low at -1.56467
-Killington is Low at -1.56746
-Tenbury is Low at -1.57691
-Tinsley is Low at -1.57734
-Stareton is Low at -1.57772
-Bridge Rule is Low at -1.58064
-Stanhope is Low at -1.58118
-Semington is Low at -1.58409
-Holme Pierrepont is Low at -1.58446
-Harlington is Low at -1.58584
-Revesby is Low at -1.58934
-Brighouse is Low at -1.59179
-Muddleswick is Low at -1.59525
-Norham is Low at -1.59733
-Redesmouth is Low at -1.60031
-Walton-Le-Dale is Low at -1.60584
-Low Moor is Low at -1.6099
-Batley Savile Street is Low at -1.61215
-Tebay is Low at -1.62863
-Stathe is Low at -1.62996
-Athelney is Low at -1.63188
-West Stonesdale is Low at -1.63517
-Billericay is Low at -1.63529
-Chiselborough is Low at -1.63627
-Mattersey is Low at -1.63844
-High Bentham is Low at -1.64462
-Ravenshaw is Low at -1.64481
-Thorpe In Balne is Low at -1.64961
-Barrowford is Low at -1.65741
-Wadesmill is Low at -1.65762
-Sedgeberrow is Low at -1.6604
-Hurst Green is Low at -1.66383
-Normanby is Low at -1.66401
-Wilmslow is Low at -1.67005
-Kirkby Mills is Low at -1.67163
-Ramsbottom is Low at -1.67251
-Maidenbower is Low at -1.68577
-Bainbridge is Low at -1.68599
-Tiverton is Low at -1.68601
-Salfords is Low at -1.68869
-Birstwith is Low at -1.69089
-Charlwood is Low at -1.69855
-Compton Dando is Low at -1.69895
-Snaith is Low at -1.70148
-Penshurst is Low at -1.71057
-Streatham is Low at -1.71812
-Forest Row is Low at -1.71905
-Nelson is Low at -1.72066
-Gunnislake is Low at -1.72343
-Scorton is Low at -1.72734
-Chapel Haddlesey is Low at -1.73593
-Bromyard is Low at -1.73849
-Eastbury is Low at -1.74307
-Eagley is Low at -1.74642
-North Hykeham is Low at -1.74676
-Buntingford is Low at -1.7472
+Allendale Town is Low at -1.50064
+Bassingham is Low at -1.50281
+Lealholm is Low at -1.51394
+Old Malton is Low at -1.5169
+Alconbury Weston is Low at -1.52084
+Middleton is Low at -1.52391
+Great Torrington is Low at -1.52394
+Podmore is Low at -1.52645
+Kislingbury is Low at -1.52957
+Calder Drive, Kendal is Low at -1.53119
+Stoke D'abernon is Low at -1.53252
+Elvington Pumping Station upstream is Low at -1.53831
+Finchley is Low at -1.54347
+Brierfield is Low at -1.54829
+Holme Pierrepont is Low at -1.55322
+Stickford is Low at -1.56005
+Linstock is Low at -1.5662
+Semington is Low at -1.5694
+Stareton is Low at -1.57123
+Tenbury is Low at -1.57387
+Bridge Rule is Low at -1.57429
+Killington is Low at -1.57645
+Tinsley is Low at -1.57723
+Harlington is Low at -1.58486
+Stanhope is Low at -1.58545
+Revesby is Low at -1.58918
+Muddleswick is Low at -1.59534
+Norham is Low at -1.59787
+Walton-Le-Dale is Low at -1.59942
+Redesmouth is Low at -1.59977
+Brighouse is Low at -1.60529
+Batley Savile Street is Low at -1.61576
+Tebay is Low at -1.61977
+Mattersey is Low at -1.62168
+West Stonesdale is Low at -1.62326
+Low Moor is Low at -1.62351
+Billericay is Low at -1.63264
+Chiselborough is Low at -1.63582
+Athelney is Low at -1.63605
+High Bentham is Low at -1.64075
+Stathe is Low at -1.65582
+Wadesmill is Low at -1.65734
+Normanby is Low at -1.66234
+Sedgeberrow is Low at -1.66259
+Wilmslow is Low at -1.66384
+Salfords is Low at -1.66429
+Kirkby Mills is Low at -1.67033
+Thorpe In Balne is Low at -1.6732
+Barrowford is Low at -1.6751
+Ramsbottom is Low at -1.68138
+Streatham is Low at -1.68149
+Tiverton is Low at -1.68337
+Hurst Green is Low at -1.68526
+Maidenbower is Low at -1.6853
+Charlwood is Low at -1.68854
+Ravenshaw is Low at -1.69383
+Birstwith is Low at -1.69744
+Compton Dando is Low at -1.70197
+Bainbridge is Low at -1.70617
+Penshurst is Low at -1.70783
+Gunnislake is Low at -1.71692
+Forest Row is Low at -1.71902
+Scorton is Low at -1.72099
+Chapel Haddlesey is Low at -1.72186
+Buntingford is Low at -1.73008
+Nelson is Low at -1.73427
+Bromyard is Low at -1.73451
+Eastbury is Low at -1.74288
+North Hykeham is Low at -1.74636
 Yalding is Low at -1.752
-Alfold Crossways is Low at -1.75574
-Drayton is Low at -1.75976
-Park Hill is Low at -1.75989
-Southstoke is Low at -1.76636
-Ings Lane Bridge is Low at -1.76809
-Burwash is Low at -1.78252
-Tolworth is Low at -1.78586
-Helmshore is Low at -1.78841
-Burrington is Low at -1.78976
-Wimboldsley Green is Low at -1.7955
-Carlisle is Low at -1.80199
-Billinghay is Low at -1.81246
-Stourton is Low at -1.82689
-Pokesdown is Low at -1.82853
-Lovington is Low at -1.82855
-Southall is Low at -1.83996
-Old Whittington is Low at -1.84212
-Grimesthorpe is Low at -1.8471
-Bentley Ings Screen is Low at -1.8525
-Cundy Cross is Low at -1.86405
-Carlton Lees is Low at -1.86438
-Langworth is Low at -1.8697
-Sidlow is Low at -1.8713
-Byfleet is Low at -1.88207
-Adwick le Street is Low at -1.89494
-Bridgnorth is Low at -1.89525
-Burntcommon is Low at -1.90065
-Tellisford is Low at -1.90169
-Buxted is Low at -1.90579
-Hardham is Low at -1.90816
-Umberleigh is Low at -1.92203
-Fishlake is Low at -1.92242
-Edenbridge is Low at -1.92335
-Frome Rodden is Low at -1.92588
-Aldwark is Low at -1.93338
-Cleator is Low at -1.93574
-Liftondown is Low at -1.93796
-Huish Episcopi is Low at -1.94526
-Bardney is Low at -1.95024
-Preston is Low at -1.95654
-Hollins is Low at -1.96037
-Wembley is Low at -1.96076
-Temple Sowerby is Low at -1.96407
-Montford is Low at -1.96623
-Cae Howel is Low at -1.9668
-Whalley is Low at -1.9785
-Weeton is Low at -1.97939
-Crewgreen is Low at -1.98139
-West Farleigh is Low at -1.9815
-Pool is Low at -1.98589
-Tixover is Low at -1.99676
-Scayne's Hill is Low at -1.99832
-North Muskham is Low at -1.99976
-Ancouts is Low at -2.00798
-Hereford Bridge is Low at -2.00939
-Bamford is Low at -2.02247
-Chiddingstone Causeway is Low at -2.02473
-Lamberhurst is Low at -2.02988
-Netherley is Low at -2.04732
-Haydon Bridge is Low at -2.05445
-Mordiford is Low at -2.05826
-Bodiam is Low at -2.06468
-Bredwardine is Low at -2.06824
-Hammoon is Low at -2.0803
-Stopsley is Low at -2.08524
-Kirby Wiske is Low at -2.09059
-Gainsborough is Low at -2.09508
-Gosberton Clough is Low at -2.10198
-Weare Giffard is Low at -2.10632
-Ross On Wye is Low at -2.13092
-Dewsbury is Low at -2.13228
-Newton on Ouse is Low at -2.1427
-Fordcombe is Low at -2.15496
-Durham is Low at -2.16661
-Castleton is Low at -2.16702
-Winchelsea Beach is Low at -2.17576
-Morwick is Low at -2.18419
-Haughton Green is Low at -2.18993
-Wetheral is Low at -2.19053
-Sheepwash, Tipton is Low at -2.19699
-Felldownhead is Low at -2.2123
-Wykeham is Low at -2.21825
-Tan Hall is Low at -2.22165
-Caton is Low at -2.22588
-Weldon is Low at -2.23201
-Belmont is Low at -2.23853
-Pulborough is Low at -2.26157
-Barrasford is Low at -2.26496
-Sharow is Low at -2.26958
-Elishaw is Low at -2.27538
-Samlesbury is Low at -2.29352
-Kirk Hammerton is Low at -2.29625
-Thornton Steward is Low at -2.31237
-Appley Bridge is Low at -2.32321
-Skew Bridge   Carlisle is Low at -2.32575
-Knottingley is Low at -2.33523
-Cawood is Low at -2.33769
-Norwood Green is Low at -2.34131
-Bellingham is Low at -2.34968
-Corbridge is Low at -2.35555
-Beningbrough is Low at -2.36698
-Longtown is Low at -2.3696
-Beal is Low at -2.36965
-Bolton Percy is Low at -2.37282
-Radcliffe is Low at -2.39157
-Bridge End is Low at -2.39698
-Bubwith is Low at -2.40865
-Three Bridges is Low at -2.41798
-Mossley is Low at -2.42022
-Kingsbury Episcopi is Low at -2.42623
-Hinton On The Green is Low at -2.43286
-Chester-Le-Street is Low at -2.43729
-Lydbrook is Low at -2.43839
-Hudswell is Low at -2.45129
-Catterick Bridge is Low at -2.45377
-Martin Dales is Low at -2.45761
-Garstang is Low at -2.46091
-Withyham is Low at -2.46538
-Kearsley is Low at -2.49103
-Bristol is Low at -2.50612
-Flixton is Low at -2.50674
-Sheepwash is Low at -2.5316
-Mowthorpe is Low at -2.53993
-Smarden is Low at -2.54016
-Mexborough is Low at -2.61461
-Ilchester is Low at -2.63244
-Bentley is Low at -2.68803
-Middlesbrough Albert Park Screen is Low at -2.68976
-Yeovil is Low at -2.70171
-Witton Park is Low at -2.7605
-Esher is Low at -2.76225
-St Michael's On Wyre is Low at -2.76852
-Ribchester is Low at -2.78623
-Elm Park is Low at -2.79126
-Churchtown is Low at -2.83364
-Loftsome Bridge is Low at -2.83964
-Exmouth Phear Park is Low at -2.84577
-Holgate is Low at -2.88842
-Blaston is Low at -2.91336
-Minsterworth is Low at -2.95084
-Bransford is Low at -2.95764
-Broomfleet Weighton Lock is Low at -2.9619
-Newpound Common is Low at -2.99289
-Urmston is Low at -3.00448
-Dronfield Dam is Low at -3.02457
-Tenbury Wells is Low at -3.02646
-Otterburn is Low at -3.0786
-Kilnhurst Lower is Low at -3.13931
-Penketh is Low at -3.1994
-Leeming is Low at -3.24241
-Oldbury is Low at -3.35942
-Myton-On-Swale is Low at -3.40211
-Bywell is Low at -3.46368
-Boroughbridge is Low at -3.49068
-Malton is Low at -3.62997
-Low Dinsdale is Low at -3.66611
-Knightwick is Low at -3.815
-Low Marishes is Low at -4.02919
-Nether Poppleton is Low at -4.1676
-Epney is Low at -4.31674
-Bosham is Low at -4.40188
-Keadby is Low at -4.53727
-Clifton Ings Outfall is Low at -4.97833
-Ferring is Low at -6.5542
-Newtown is Low at -6.90325
-Loxwood is Low at -20.18853
-Drungewick is Low at -33.14502
+Eagley is Low at -1.75488
+Alfold Crossways is Low at -1.75501
+Southstoke is Low at -1.75581
+Drayton is Low at -1.75747
+Park Hill is Low at -1.76735
+Ings Lane Bridge is Low at -1.76961
+Burwash is Low at -1.77499
+Tolworth is Low at -1.78457
+Burrington is Low at -1.78573
+Helmshore is Low at -1.78677
+Wimboldsley Green is Low at -1.78924
+Snaith is Low at -1.79112
+Bentley Ings Screen is Low at -1.79543
+Carlisle is Low at -1.8041
+Stourton is Low at -1.82029
+Lovington is Low at -1.82826
+Billinghay is Low at -1.83057
+Pokesdown is Low at -1.83085
+Southall is Low at -1.83685
+Old Whittington is Low at -1.84406
+Grimesthorpe is Low at -1.84604
+Cundy Cross is Low at -1.86587
+Langworth is Low at -1.86835
+Carlton Lees is Low at -1.86893
+Sidlow is Low at -1.87201
+Byfleet is Low at -1.88432
+Adwick le Street is Low at -1.88471
+Bridgnorth is Low at -1.89142
+Tellisford is Low at -1.89405
+Burntcommon is Low at -1.90038
+Buxted is Low at -1.90341
+Hardham is Low at -1.90924
+Aldwark is Low at -1.90994
+Frome Rodden is Low at -1.92288
+Edenbridge is Low at -1.92649
+Umberleigh is Low at -1.93062
+Liftondown is Low at -1.93102
+West Farleigh is Low at -1.93349
+Cleator is Low at -1.93429
+Cae Howel is Low at -1.93994
+Montford is Low at -1.9463
+Bardney is Low at -1.94737
+Hereford Bridge is Low at -1.94739
+Temple Sowerby is Low at -1.9549
+Whalley is Low at -1.96115
+Wembley is Low at -1.96271
+Hollins is Low at -1.97038
+Huish Episcopi is Low at -1.97509
+Crewgreen is Low at -1.9769
+North Muskham is Low at -1.989
+Weeton is Low at -1.99216
+Scayne's Hill is Low at -1.99841
+Mordiford is Low at -2.0021
+Tixover is Low at -2.00213
+Ancouts is Low at -2.00382
+Pool is Low at -2.00804
+Chiddingstone Causeway is Low at -2.01662
+Fishlake is Low at -2.02059
+Bamford is Low at -2.0263
+Lamberhurst is Low at -2.02689
+Preston is Low at -2.03079
+Bredwardine is Low at -2.04832
+Haydon Bridge is Low at -2.05864
+Bodiam is Low at -2.06382
+Netherley is Low at -2.06514
+Hammoon is Low at -2.0721
+Winchelsea Beach is Low at -2.07501
+Stopsley is Low at -2.08254
+Kirby Wiske is Low at -2.0902
+Gosberton Clough is Low at -2.09874
+Weare Giffard is Low at -2.09996
+Ross On Wye is Low at -2.12533
+Newton on Ouse is Low at -2.1299
+Fordcombe is Low at -2.13226
+Dewsbury is Low at -2.15143
+Durham is Low at -2.16571
+Castleton is Low at -2.16585
+Belmont is Low at -2.17064
+Wykeham is Low at -2.17425
+Morwick is Low at -2.18403
+Haughton Green is Low at -2.19369
+Wetheral is Low at -2.19506
+Felldownhead is Low at -2.20498
+Sheepwash, Tipton is Low at -2.20573
+Weldon is Low at -2.2262
+Tan Hall is Low at -2.22934
+Gainsborough is Low at -2.2512
+Caton is Low at -2.2556
+Pulborough is Low at -2.26093
+Barrasford is Low at -2.26383
+Kirk Hammerton is Low at -2.27464
+Elishaw is Low at -2.27629
+Samlesbury is Low at -2.27738
+Sharow is Low at -2.28254
+Beningbrough is Low at -2.30765
+Thornton Steward is Low at -2.32899
+Knottingley is Low at -2.329
+Skew Bridge   Carlisle is Low at -2.33126
+Appley Bridge is Low at -2.33746
+Norwood Green is Low at -2.344
+Bellingham is Low at -2.34926
+Corbridge is Low at -2.35325
+Beal is Low at -2.35463
+Bolton Percy is Low at -2.36746
+Longtown is Low at -2.36956
+Radcliffe is Low at -2.38525
+Bridge End is Low at -2.39611
+Mossley is Low at -2.41748
+Three Bridges is Low at -2.42081
+Kingsbury Episcopi is Low at -2.42491
+Chester-Le-Street is Low at -2.43063
+Hinton On The Green is Low at -2.43448
+Lydbrook is Low at -2.43498
+Garstang is Low at -2.4369
+Cawood is Low at -2.44009
+Bubwith is Low at -2.44595
+Martin Dales is Low at -2.45812
+Catterick Bridge is Low at -2.46097
+Withyham is Low at -2.46153
+Hudswell is Low at -2.46291
+Flixton is Low at -2.49417
+Bristol is Low at -2.50057
+Kearsley is Low at -2.50272
+Smarden is Low at -2.52153
+Sheepwash is Low at -2.53122
+Mowthorpe is Low at -2.53887
+Mexborough is Low at -2.61535
+Ilchester is Low at -2.63047
+Bentley is Low at -2.66902
+Middlesbrough Albert Park Screen is Low at -2.69117
+Yeovil is Low at -2.70048
+St Michael's On Wyre is Low at -2.74022
+Esher is Low at -2.76185
+Witton Park is Low at -2.76333
+Elm Park is Low at -2.79213
+Ribchester is Low at -2.82604
+Exmouth Phear Park is Low at -2.84545
+Holgate is Low at -2.84997
+Bransford is Low at -2.88111
+Churchtown is Low at -2.88788
+Blaston is Low at -2.91259
+Broomfleet Weighton Lock is Low at -2.94375
+Newpound Common is Low at -2.99088
+Minsterworth is Low at -3.01178
+Urmston is Low at -3.01723
+Loftsome Bridge is Low at -3.02182
+Tenbury Wells is Low at -3.02526
+Dronfield Dam is Low at -3.02761
+Otterburn is Low at -3.07759
+Penketh is Low at -3.14064
+Kilnhurst Lower is Low at -3.20357
+Leeming is Low at -3.24193
+Myton-On-Swale is Low at -3.36538
+Oldbury is Low at -3.39055
+Bywell is Low at -3.46233
+Boroughbridge is Low at -3.47284
+Malton is Low at -3.62647
+Low Dinsdale is Low at -3.62913
+Knightwick is Low at -3.78921
+Low Marishes is Low at -4.02338
+Nether Poppleton is Low at -4.10978
+Epney is Low at -4.34274
+Bosham is Low at -4.4017
+Clifton Ings Outfall is Low at -4.92803
+Keadby is Low at -5.01199
+Eckington is Low at -5.47976
+Ferring is Low at -6.52348
+Newtown is Low at -7.78923
+Loxwood is Low at -20.18852
+Drungewick is Low at -33.14382
 Hartlepool Valley Drive is Low at -10000.164
 Great Burstead is Low at -10000.25
 Corsham is Low at -10000.3
